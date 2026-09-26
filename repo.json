@@ -3,6 +3,6 @@
     "description": "Türkçe Cloudstream eklentiler listesi",
     "manifestVersion": 1,
     "pluginLists": [
-        "https://raw.githubusercontent.com/darknesslord19/LokmanHekim/main/plugins.json"
+        "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/plugins.json"
     ]
 }
