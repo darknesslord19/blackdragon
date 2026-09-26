@@ -1,1105 +1,1322 @@
 [
   {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/AnimeciX.cs3",
-    "status": 1,
-    "version": 21,
-    "name": "AnimeciX",
-    "internalName": "AnimeciX",
+    "url": "https://github.com/darknesslord19/blackdragon/main/AltiYuzAltmisAltiFilmIzle.cs3",
+    "status": 3,
+    "version": 8,
+    "name": "AltiYuzAltmisAltiFilmIzle",
+    "internalName": "AltiYuzAltmisAltiFilmIzle",
     "authors": [
-      "csprofesor"
+      "Wiojelt"
     ],
-    "description": "AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
-    "fileSize": 26561,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
-    "language": "tr",
-    "tvTypes": [
-      "Anime"
-    ],
-    "iconUrl": "https://animecix.tv/favicon.ico",
-    "apiVersion": 1,
-    "fileHash": "sha256-63a0b89a612fb5820898dcf02e73d8b8d9b558f5f0d8ccd7ab15fce2217cd89f"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/Anizm.cs3",
-    "status": 1,
-    "version": 10,
-    "name": "Anizm",
-    "internalName": "Anizm",
-    "authors": [
-      "csprofesor"
-    ],
-    "fileSize": 32882,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
-    "language": "tr",
-    "tvTypes": [
-      "AnimeMovie",
-      "Anime",
-      "OVA"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=anizm.com.tr&sz=%size%",
-    "apiVersion": 1,
-    "fileHash": "sha256-4771dec4a1dcb0182bcc75273483c933a897307ae552bd841acdf21bb9ab9aa1"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/AsyaAnimeleri.cs3",
-    "status": 1,
-    "version": 1,
-    "name": "AsyaAnimeleri",
-    "internalName": "AsyaAnimeleri",
-    "authors": [
-      "csprofesor"
-    ],
-    "description": "Asya Animeleri - Anime izle, Donghua izle, Türkçe Altyazılı Anime izle.",
-    "fileSize": 13712,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
-    "language": "tr",
-    "tvTypes": [
-      "Anime"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=asyaanimeleri.top&sz=%size%",
-    "apiVersion": 1,
-    "fileHash": "sha256-a9d6c39db58cf5d3cf79506724011ea62c1f9e2cb4d5ff64eaf1297375adf948"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/AsyaWatch.cs3",
-    "status": 1,
-    "version": 6,
-    "name": "AsyaWatch",
-    "internalName": "AsyaWatch",
-    "authors": [
-      "csprofesor"
-    ],
-    "description": "Asyawatch",
-    "fileSize": 32164,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
+    "description": "Alti Yuz Altmis Alti Film Izle · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 74799,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
     "language": "tr",
     "tvTypes": [
       "Movie",
-      "TvSeries"
+      "TvSeries",
+      "Anime",
+      "Documentary"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=asyawatch.com&sz=%size%",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/AltiYuzAltmisAltiFilmIzle.png",
     "apiVersion": 1,
-    "fileHash": "sha256-738a119dd0a65c5b7052571e522c342f862f333ce01d461edbfcfa315bcf6d93"
+    "fileHash": "sha256-8bf63c66ce42253fa46b4906a1e02c5c052060fd7b3726476da69fd48cb7c6a9"
   },
   {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/BelgeselX.cs3",
+    "url": "https://github.com/darknesslord19/blackdragon/main/AniArsiv.cs3",
     "status": 1,
-    "version": 17,
+    "version": 1,
+    "name": "AniArsiv",
+    "internalName": "AniArsiv",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "AniArşiv · Güncel ve klasik anime arşivi, Türkçe altyazı",
+    "fileSize": 13090,
+    "repositoryUrl": "https://github.com/Wiojelt/test",
+    "language": "tr",
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ],
+    "iconUrl": "https://aniarsiv.com/favicon.ico",
+    "apiVersion": 1,
+    "fileHash": "sha256-2ae3dc6348f98bb3ddc871311715a0a9c9978117e22e71b3ddf5b7f40f4b50ad"
+  },
+  {
+    "url": "https://github.com/darknesslord19/blackdragon/main/BelgeselX.cs3",
+    "status": 3,
+    "version": 7,
     "name": "BelgeselX",
     "internalName": "BelgeselX",
     "authors": [
-      "csprofesor"
+      "Wiojelt"
     ],
-    "description": "En yeni belgeseller, türkçe altyazılı yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
-    "fileSize": 30177,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
+    "description": "Belgesel X · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 91248,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
     "language": "tr",
     "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
       "Documentary"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=belgeselx.com&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=belgeselx.com&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-b98dde3ddcde0ca848f95a08978bf065e44614e8b26af6b62a327c92e1883596"
+    "fileHash": "sha256-d3f664711d78b1d499e104e885b4f9cc107680be6ac29473c19e495769f0df26"
   },
   {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/CanliTV.cs3",
-    "status": 1,
-    "version": 6,
-    "name": "CanliTV",
-    "internalName": "CanliTV",
+    "url": "https://github.com/darknesslord19/blackdragon/main/BingeBang.cs3",
+    "status": 3,
+    "version": 1,
+    "name": "BingeBang",
+    "internalName": "BingeBang",
     "authors": [
-      "csprofesor"
+      "Wiojelt"
     ],
-    "description": "Canlı TV",
-    "fileSize": 19181,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
+    "description": "BingeBang - Film ve Dizi Portali (bingebang.tv). 4K Ultra HD ve Full HD HLS akislari.",
+    "fileSize": 94435,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+    "language": "all",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://bingebang.tv/icon-512.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-1e9d639b4a9a82b2775063f3fccd74c2ab8b037feedf6986bd9b3d14db96f2cd"
+  },
+  {
+    "url": "https://github.com/darknesslord19/blackdragon/main/CineCat.cs3",
+    "status": 3,
+    "version": 2,
+    "name": "CineCat",
+    "internalName": "CineCat",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Cinecat · Dizi & Film Portalı (cinecat.eu)",
+    "fileSize": 796207,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+    "language": "all",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime"
+    ],
+    "iconUrl": "https://cinecat.eu/android-chrome-192x192.png?v=3",
+    "apiVersion": 1,
+    "fileHash": "sha256-dd3457796717da7b9d3e2c542b68b872bbecdbe0f2e00d0de35b16703dcbeec3"
+  },
+  {
+    "url": "https://github.com/darknesslord19/blackdragon/main/CineSimkl.cs3",
+    "status": 3,
+    "version": 7,
+    "name": "CineSimkl",
+    "internalName": "CineSimkl",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "CineSimkl · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 795765,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
     "language": "tr",
     "tvTypes": [
-      "Live"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=simkl.com&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-bbe929f47b3999c16d019047263df26d6fe97b3c7627c57835146756d3fc1ad6"
+    "fileHash": "sha256-0f2976e23e1858a10e33b1e9a17f35bc933262ddb4f43a275c189cdb8e181916"
   },
   {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/CizgiMax.cs3",
-    "status": 1,
-    "version": 16,
+    "url": "https://github.com/darknesslord19/blackdragon/main/CineStream.cs3",
+    "status": 3,
+    "version": 7,
+    "name": "CineStream",
+    "internalName": "CineStream",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "CineStream · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 795759,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/master/CineStream/icon.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-ec1a167ff05ef76e403876791e64c19fb5e91040a845b600af128c71e239552f"
+  },
+  {
+    "url": "https://github.com/darknesslord19/blackdragon/main/CizgiMax.cs3",
+    "status": 3,
+    "version": 7,
     "name": "CizgiMax",
     "internalName": "CizgiMax",
     "authors": [
-      "csprofesor"
+      "Wiojelt"
     ],
-    "description": "ÇizgiMax ile Çizgi Film izlemek artık daha kolay, donmadan full hd ve reklamsız bir sitedir, içerisinde 700 den fazla çizgi film olan, Bu site bu işi profesyonelce yapıyor.",
-    "fileSize": 33964,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
+    "description": "Cizgi Max · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 96852,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
     "language": "tr",
     "tvTypes": [
-      "Cartoon",
+      "Movie",
+      "TvSeries",
       "Anime",
-      "Movie"
+      "Documentary"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-8d9f6c7a562e7d426df339f5b5fbe05356aef815d20c0eeaaa9d6b998a9be2e3"
+    "fileHash": "sha256-bb87fbeb41cfe93d7df8c674940c50cdc950eb0431cc63acc6a449d40cb9593b"
   },
   {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/DDizi.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/CizgiVeDizi.cs3",
     "status": 1,
-    "version": 1,
+    "version": 13,
+    "name": "CizgiVeDizi",
+    "internalName": "CizgiVeDizi",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Çizgi, anime, dizi ve film kataloğu; güncel merkez player ve bölüm kaynaklarını çözer.",
+    "fileSize": 35829,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime"
+    ],
+    "iconUrl": "https://cizgivedizi.com/Logo.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-fc053a7b4660ceb915ad5eae27222408665d9e7b1132f943360b2e1ce2688f7d"
+  },
+  {
+    "url": "https://github.com/darknesslord19/blackdragon/main/ClipBox.cs3",
+    "status": 3,
+    "version": 7,
+    "name": "ClipBox",
+    "internalName": "ClipBox",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Clip Box · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 801833,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/ClipBox.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-336bd8a1afe191713b8fece1e2f6441fa6977d435b55eea97578a01686bcf34b"
+  },
+  {
+    "url": "https://github.com/darknesslord19/blackdragon/main/CNCVerseDisneyPlus.cs3",
+    "status": 3,
+    "version": 8,
+    "name": "CNCVerseDisneyPlus",
+    "internalName": "CNCVerseDisneyPlus",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Disney Plus · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 119113,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-3f1ff90e7b568901d25ea5a4184a7c348dc6d48dacdb30c5c9b9621d8f0b1c94"
+  },
+  {
+    "url": "https://github.com/darknesslord19/blackdragon/main/CNCVerseNetflix.cs3",
+    "status": 3,
+    "version": 8,
+    "name": "CNCVerseNetflix",
+    "internalName": "CNCVerseNetflix",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Netflix Mirror · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 119092,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-9d216204571eff7574a8d98d1075505efc29b069d9121c348d39e28b34c06a08"
+  },
+  {
+    "url": "https://github.com/darknesslord19/blackdragon/main/CNCVersePrimeVideo.cs3",
+    "status": 3,
+    "version": 8,
+    "name": "CNCVersePrimeVideo",
+    "internalName": "CNCVersePrimeVideo",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Prime Video Mirror · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 119115,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-25f57e02fc356d1c8a9641b3f29b37a81965512c00f65ffc22423130de32cd6b"
+  },
+  {
+    "url": "https://github.com/darknesslord19/blackdragon/main/DDizi.cs3",
+    "status": 3,
+    "version": 7,
     "name": "DDizi",
     "internalName": "DDizi",
     "authors": [
-      "csprofesor"
+      "Wiojelt"
     ],
-    "description": "Ddizi, dizi izle, dizi seyret, ddizi.im - Güncel ve eski dizileri en iyi görüntü kalitesiyle bulabileceğiniz dizi izleme sitesi.",
-    "fileSize": 28711,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
+    "description": "D Dizi · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 82380,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
     "language": "tr",
     "tvTypes": [
-      "TvSeries"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=ddizi.im&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.ddizi.im&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-fc892c34723386a708fbbc22a2e449a1bd22eb480924bf5e9aeb6f670c1ab181"
+    "fileHash": "sha256-74ffcd898c38dd653e8dd310578ca651e27dd9aa60e92d28d79d918dbcde095c"
   },
   {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/DiziBox.cs3",
-    "status": 1,
-    "version": 23,
+    "url": "https://github.com/darknesslord19/blackdragon/main/DiziBal.cs3",
+    "status": 3,
+    "version": 7,
+    "name": "DiziBal",
+    "internalName": "DiziBal",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "DiziBal · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 103368,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizibal.com&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-7bb9296ed4e6c0a50edf74d5f4d7fc395afc66817a972048a4f555ca36d9f454"
+  },
+  {
+    "url": "https://github.com/darknesslord19/blackdragon/main/DiziBol.cs3",
+    "status": 3,
+    "version": 7,
+    "name": "DiziBol",
+    "internalName": "DiziBol",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "DiziBol · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 103392,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizibol.com&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-f6acfd481d0deecbe33e34bfac3554ae22725b1c7c610613a777054165883635"
+  },
+  {
+    "url": "https://github.com/darknesslord19/blackdragon/main/DiziBox.cs3",
+    "status": 3,
+    "version": 7,
     "name": "DiziBox",
     "internalName": "DiziBox",
     "authors": [
-      "csprofesor"
+      "Wiojelt"
     ],
-    "description": "Yabancı Dizi izle, Tüm yabancı dizilerin yeni ve eski sezonlarını full hd izleyebileceğiniz elit site.",
-    "fileSize": 29299,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
+    "description": "Dizi Box · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 84685,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
     "language": "tr",
     "tvTypes": [
-      "TvSeries"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.live&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.live&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-a340061e01283f501dd367313f1e2f4834ec74d62ec59cbbb06cb6cb653e64e2"
+    "fileHash": "sha256-bceae3dbcd3a5d4943a3872af45a48794c06378a4bf0ce5d6ae00815bb4ded6c"
   },
   {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/DiziGom.cs3?v=1619231d6082494ed288653466e745879f6cecea5348fe8cbd0ca8deea53fee7",
-    "status": 1,
-    "version": 16,
-    "name": "DiziGom",
-    "internalName": "DiziGom",
+    "url": "https://github.com/darknesslord19/blackdragon/main/DiziFilmIzle.cs3",
+    "status": 3,
+    "version": 8,
+    "name": "DiziFilmIzle",
+    "internalName": "DiziFilmIzle",
     "authors": [
-      "csprofesor"
+      "Wiojelt"
     ],
-    "description": "Türkçe altyazılı yabancı dizi izle, Tüm yabancı, kore, netflix dizilerin yeni ve eski sezonlarını orijinal dilinde dizigom1 alt yazılı film izleyebilir, sadece türkçe altyazılı en iyi yabancı diziler ve filmler hakkında yorum yapabilirsiniz.",
-    "fileSize": 24193,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
+    "description": "DiziFilmİzle · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 103420,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
     "language": "tr",
     "tvTypes": [
-      "TvSeries"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizigom.love&sz=%size%",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziFilmIzle.jpg",
     "apiVersion": 1,
-    "fileHash": "sha256-1619231d6082494ed288653466e745879f6cecea5348fe8cbd0ca8deea53fee7"
+    "fileHash": "sha256-26485950a00caec692a46b5e6005dfeedabe2721abcc600398cb34577750e2ba"
   },
   {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/DiziKorea.cs3",
-    "status": 1,
-    "version": 41,
-    "name": "DiziKorea",
-    "internalName": "DiziKorea",
-    "authors": [
-      "csprofesor"
-    ],
-    "description": "En Güncel Kore Dizileri izleme Sitesi",
-    "fileSize": 23562,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
-    "language": "tr",
-    "tvTypes": [
-      "AsianDrama"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizikorea.vip&sz=%size%",
-    "apiVersion": 1,
-    "fileHash": "sha256-1958c66dd0c32ab436adc333504c1183322653afa048425509a7dfc4898ba0da"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/Dizilla.cs3",
-    "status": 1,
-    "version": 92,
+    "url": "https://github.com/darknesslord19/blackdragon/main/Dizilla.cs3",
+    "status": 3,
+    "version": 7,
     "name": "Dizilla",
     "internalName": "Dizilla",
     "authors": [
-      "csprofesor"
+      "Wiojelt"
     ],
-    "description": "Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz.",
-    "fileSize": 36123,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
+    "description": "Dizilla · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 97071,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
     "language": "tr",
     "tvTypes": [
-      "TvSeries"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
-    "apiVersion": 1,
-    "fileHash": "sha256-25a5164a8a92dece1f5993e4ddd7be8399f53c92ebf7448177712fa51b853827"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/DiziMag.cs3",
-    "status": 1,
-    "version": 22,
-    "name": "DiziMag",
-    "internalName": "DiziMag",
-    "authors": [
-      "csprofesor"
-    ],
-    "description": "En son çıkan yabancı dizi ve filmleri DiziMag farkıyla full hd 1080p kalitede izle. Dizimag Geniş ve güncel arşiviyle dizi ve filmlerin tadını çıkartın.",
-    "fileSize": 29437,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
-    "language": "tr",
-    "tvTypes": [
+      "Movie",
       "TvSeries",
-      "Movie"
+      "Anime",
+      "Documentary"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=dizimag.one&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-9baca9e27e70d6966712b1e82d56050a00fb905c31c8207a1429b9a72bf9cdf9"
+    "fileHash": "sha256-df8e3e9dfb5e87e2c48f95324825c6ae2e696d7066b5bb98e6d70648ad9b2e10"
   },
   {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/DiziMom.cs3",
-    "status": 1,
-    "version": 58,
+    "url": "https://github.com/darknesslord19/blackdragon/main/DiziMom.cs3",
+    "status": 3,
+    "version": 8,
     "name": "DiziMom",
     "internalName": "DiziMom",
     "authors": [
-      "csprofesor"
+      "Wiojelt"
     ],
-    "description": "Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
-    "fileSize": 34594,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
+    "description": "Dizi Mom · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 95994,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
     "language": "tr",
     "tvTypes": [
-      "TvSeries"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.plus&sz=%size%",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziMom.png",
     "apiVersion": 1,
-    "fileHash": "sha256-c74ec904c4b266671ab2586cefb7e3b63d47d7ca079c72b94807e28a26b4f0c3"
+    "fileHash": "sha256-f60676091f13513555918a355dcd12bbb84151276786d50ac057b89e526cb14f"
   },
   {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/DiziPal.cs3",
-    "status": 1,
-    "version": 109,
+    "url": "https://github.com/darknesslord19/blackdragon/main/DiziPal.cs3",
+    "status": 3,
+    "version": 9,
     "name": "DiziPal",
     "internalName": "DiziPal",
     "authors": [
-      "csprofesor"
+      "Wiojelt"
     ],
-    "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
-    "fileSize": 29477,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
+    "description": "Dizi Pal · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 91945,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
     "language": "tr",
     "tvTypes": [
+      "Movie",
       "TvSeries",
-      "Movie"
+      "Anime",
+      "Documentary"
     ],
-    "iconUrl": "https://dizipal1563.com/assets/favicon/favicon-32x32.png?v=3",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziPal.png",
     "apiVersion": 1,
-    "fileHash": "sha256-960a1743d97b7b0d34fbadbe59f6a4a2d05f2505404bc8cfefafae2e1cf40e9d"
+    "fileHash": "sha256-e05bdd7f25491a7f95aba099d983527b4e178feb866ddc285eb83421d433c14d"
   },
   {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/DiziPalOriginal.cs3",
-    "status": 1,
-    "version": 92,
+    "url": "https://github.com/darknesslord19/blackdragon/main/DiziPalOriginal.cs3",
+    "status": 3,
+    "version": 8,
     "name": "DiziPalOriginal",
     "internalName": "DiziPalOriginal",
     "authors": [
-      "csprofesor"
+      "Wiojelt"
     ],
-    "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
-    "fileSize": 30047,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
+    "description": "Dizi Pal Original · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 91370,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
     "language": "tr",
     "tvTypes": [
+      "Movie",
       "TvSeries",
-      "Movie"
+      "Anime",
+      "Documentary"
     ],
-    "iconUrl": "https://chessplyimages.cfd/uploads/site/favicon-32x32.png",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal2123.com&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-2c7746933f8d62167677adea4cb08035619f593475159fd83f796db5333c42ca"
+    "fileHash": "sha256-c5233540a90a95a764d55e2d00cb382ecdb5ff4e0f9f30bd875e290df2e712c4"
   },
   {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/DiziYou.cs3",
-    "status": 1,
-    "version": 26,
+    "url": "https://github.com/darknesslord19/blackdragon/main/DiziRella.cs3",
+    "status": 3,
+    "version": 7,
+    "name": "DiziRella",
+    "internalName": "DiziRella",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "DiziRella · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 103428,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizirella.net&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-7a39d0f04c6fa10366ede99624bd42dafd476ebc503643a86dd8f0f171e98b3d"
+  },
+  {
+    "url": "https://github.com/darknesslord19/blackdragon/main/DiziYou.cs3",
+    "status": 3,
+    "version": 7,
     "name": "DiziYou",
     "internalName": "DiziYou",
     "authors": [
-      "csprofesor"
+      "Wiojelt"
     ],
-    "description": "Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
-    "fileSize": 15974,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
+    "description": "Dizi You · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 79435,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
     "language": "tr",
     "tvTypes": [
-      "TvSeries"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
     ],
-    "iconUrl": "https://cdn.diziyou.one/wp-content/uploads/2020/04/diziyou-favicon.png",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.diziyou.one&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-5259d2d3443e93a0639c0407fc91c20f71cbad757408acaf31b4faf5ee8bab5b"
+    "fileHash": "sha256-ae5620dcedb45d9c01d395c045426b3526a94201890cda8edbda6be752927d7e"
   },
   {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/DMax.cs3",
-    "status": 1,
-    "version": 2,
-    "name": "DMax",
-    "internalName": "DMax",
+    "url": "https://github.com/darknesslord19/blackdragon/main/Dmax.cs3",
+    "status": 3,
+    "version": 1,
+    "name": "Dmax",
+    "internalName": "Dmax",
     "authors": [
-      "csprofesor"
+      "Wiojelt"
     ],
-    "description": "DMAX dizi ve programlarını takip etmek için ziyaret edin. DMAX dizi ve programlarını tek parça ve hd kalitesiyle izleyin.",
-    "fileSize": 14339,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
+    "description": "DMAX · Belgesel, Macera, Canlı TV & Popüler Programlar (dmax.com.tr)",
+    "fileSize": 82967,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
     "language": "tr",
     "tvTypes": [
-      "TvSeries"
+      "Documentary",
+      "TvSeries",
+      "Live"
     ],
-    "iconUrl": "https://www.dmax.com.tr/favicon.ico",
+    "iconUrl": "https://img-dmax.mncdn.com/dmaxcomtr_logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-ff9c9a5516068ec1d06d5027ed57cb2f7a2e76adb0c9cc831c63024f9bb0e70f"
+    "fileHash": "sha256-fdced277b31dfbe2b41c15a3e1f68ef156e9308ebdfb652733ae4ff6df18554f"
   },
   {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/Filmİzlesene.cs3",
-    "status": 0,
-    "version": 3,
-    "name": "Filmİzlesene",
-    "internalName": "Filmİzlesene",
+    "url": "https://github.com/darknesslord19/blackdragon/main/FilmIzzle.cs3",
+    "status": 3,
+    "version": 7,
+    "name": "FilmIzzle",
+    "internalName": "FilmIzzle",
     "authors": [
-      "csprofesor"
+      "Wiojelt"
     ],
-    "description": "Filmizlesene ile hızlı film izleme fırsatını yakala, en yeni ve iyi filmleri Full HD 1080p kalitesiyle online ve bedava izle",
-    "fileSize": 18941,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
+    "description": "FilmIzzle · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 103431,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
     "language": "tr",
     "tvTypes": [
-      "Movie"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=filmizlesene.plus&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=filmizzle.com&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-3e4a185d2f152f73496ead0a4b83ea47fba3f4b213ceb9c2111ab590abbc4a65"
+    "fileHash": "sha256-6dea5532f6af3cec9f554acd2b21d2f6dd2caa7fefb382e34056ab0ac96a584f"
   },
   {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/FilmMakinesi.cs3",
-    "status": 1,
-    "version": 59,
+    "url": "https://github.com/darknesslord19/blackdragon/main/FilmMakinesi.cs3",
+    "status": 3,
+    "version": 8,
     "name": "FilmMakinesi",
     "internalName": "FilmMakinesi",
     "authors": [
-      "csprofesor"
+      "Wiojelt"
     ],
-    "description": "Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
-    "fileSize": 32902,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
+    "description": "Film Makinesi · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 82757,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
     "language": "tr",
     "tvTypes": [
-      "Movie"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.to&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-96c3e3784c270d960ab3207e618c3306214466a1f2225af66cd7c6fdb15b02ff"
+    "fileHash": "sha256-302161968466a5cc374ab502794ba035c01ec126616660e90634d569f218d4ef"
   },
   {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/FilmModu.cs3",
-    "status": 1,
-    "version": 19,
+    "url": "https://github.com/darknesslord19/blackdragon/main/FilmModu.cs3",
+    "status": 3,
+    "version": 8,
     "name": "FilmModu",
     "internalName": "FilmModu",
     "authors": [
-      "csprofesor"
+      "Wiojelt"
     ],
-    "description": "Film modun geldiyse yüksek kalitede en yeni filmleri izle, 1080p izleyebileceğiniz reklamsiz film sitesi.",
-    "fileSize": 16496,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
+    "description": "Film Modu · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 80025,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
     "language": "tr",
     "tvTypes": [
-      "Movie"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
     ],
-    "iconUrl": "https://www.filmmodu.one/icon/favicon.ico",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/FilmModu.png",
     "apiVersion": 1,
-    "fileHash": "sha256-3150a6212f052ad843a8b9e67d65c82b35078f502bb9f5032b1af808d87b862e"
+    "fileHash": "sha256-17957840872681e56195cf4743889a6e9c21f60a80958c4ed6eee8fa1015e595"
   },
   {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/FullHDFilm.cs3",
-    "status": 1,
-    "version": 36,
+    "url": "https://github.com/darknesslord19/blackdragon/main/FlixNetwork.cs3",
+    "status": 3,
+    "version": 7,
+    "name": "FlixNetwork",
+    "internalName": "FlixNetwork",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Flix Network · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 82004,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=flixnetwork.is&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-bea7b580d53cac280a9392a47d1091f9f888b25103363d6797d4a6f8768ed74b"
+  },
+  {
+    "url": "https://github.com/darknesslord19/blackdragon/main/FullHDFilm.cs3",
+    "status": 3,
+    "version": 7,
     "name": "FullHDFilm",
     "internalName": "FullHDFilm",
     "authors": [
-      "csprofesor"
+      "Wiojelt"
     ],
-    "description": "Fullhdfilm ile en yeni vizyon filmler Full HD ve kesintisiz film sizlerle. Özgün film arşivimizle en üstün kaliteli film izle keyfini sunuyoruz.",
-    "fileSize": 28171,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
+    "description": "Full H D Film · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 89672,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
     "language": "tr",
     "tvTypes": [
       "Movie",
-      "TvSeries"
+      "TvSeries",
+      "Anime",
+      "Documentary"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilm.us&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilm.us&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-83de6f5e436bc671aef7925683ffa870a8f8264513d032e23e64b2d0d59515a4"
+    "fileHash": "sha256-04f4afc22c31d1a84cd81382cab1ffedb3ee1e9eef94b790c1c6b607db6ef722"
   },
   {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/FullHDFilmizlesene.cs3",
-    "status": 1,
-    "version": 33,
+    "url": "https://github.com/darknesslord19/blackdragon/main/FullHDFilmizlesene.cs3",
+    "status": 3,
+    "version": 7,
     "name": "FullHDFilmizlesene",
     "internalName": "FullHDFilmizlesene",
     "authors": [
-      "csprofesor"
+      "Wiojelt"
     ],
-    "description": "Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
-    "fileSize": 40117,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
+    "description": "Full H D Filmizlesene · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 102916,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
     "language": "tr",
     "tvTypes": [
-      "Movie"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.now&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-8f2cff5f9fc87f38d415b65c30c7ad3b7c9a5d26f03d8e73b072ff520b499253"
+    "fileHash": "sha256-19b8aece6dd59fef030074aeb4103838ab73569bef17fe966a32b2b3a0350c8d"
   },
   {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/HDFilmCehennemi.cs3",
-    "status": 1,
-    "version": 48,
+    "url": "https://github.com/darknesslord19/blackdragon/main/HDFilmCehennemi.cs3",
+    "status": 3,
+    "version": 7,
     "name": "HDFilmCehennemi",
     "internalName": "HDFilmCehennemi",
     "authors": [
-      "csprofesor"
+      "Wiojelt"
     ],
-    "description": "Türkiye'nin en hızlı hd film izleme sitesi",
-    "fileSize": 30707,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
+    "description": "H D Film Cehennemi · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 93367,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
     "language": "tr",
     "tvTypes": [
       "Movie",
-      "TvSeries"
+      "TvSeries",
+      "Anime",
+      "Documentary"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.hdfilmcehennemi.nl&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-1795cd99649fc3295df22a5fa950fc726311c17bef222cdd100df869e11356c4"
+    "fileHash": "sha256-b4e37db8b593558bae430deb3fdd05e004f7162fc4a6c0fe6795a27cd02d9978"
   },
   {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/HDFilmCehennemi2.cs3",
-    "status": 1,
-    "version": 8,
-    "name": "HDFilmCehennemi2",
-    "internalName": "HDFilmCehennemi2",
-    "authors": [
-      "csprofesor"
-    ],
-    "description": "Full hd film izleme keyfini hdfilmcehennemi2 ile yaşayın. Türkiyenin en güncel yüksek hd kalitede film izleme sitesi.",
-    "fileSize": 27803,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
-    "language": "tr",
-    "tvTypes": [
-      "Movie"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.hdfilmcehennemi2.nl&sz=%size%",
-    "apiVersion": 1,
-    "fileHash": "sha256-9d40401d743f0104f44cd3344756d516932333697295b808e9b278cbcea2897b"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/HDFilmIzle.cs3",
-    "status": 1,
+    "url": "https://github.com/darknesslord19/blackdragon/main/HDFilmDelisi.cs3",
+    "status": 3,
     "version": 7,
-    "name": "HDFilmIzle",
-    "internalName": "HDFilmIzle",
+    "name": "HDFilmDelisi",
+    "internalName": "HDFilmDelisi",
     "authors": [
-      "csprofesor"
+      "Wiojelt"
     ],
-    "description": "HDFilmizle ile Full HD izle, 1080p kalitede Yerli ve Yabancı filmlerle Türkçe dublaj veya Altyazı olarak kesintisiz film izlemenin tadını çıkarın.",
-    "fileSize": 32256,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
+    "description": "H D Film Delisi · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 123880,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
     "language": "tr",
     "tvTypes": [
       "Movie",
-      "TvSeries"
+      "TvSeries",
+      "Anime",
+      "Documentary"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmizle.to&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmdelisi.one&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-48cf5302a6ae123b8ca9a7e6b10a571df13ca656e36d3c607688d971b09d1c2f"
+    "fileHash": "sha256-7611da9bdaeba32beb5da5270998bcd85161828561d1d9b2fa9dad2dc63ff6b9"
   },
   {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/HDFilmSitesi.cs3",
-    "status": 1,
-    "version": 19,
-    "name": "HDFilmSitesi",
-    "internalName": "HDFilmSitesi",
+    "url": "https://github.com/darknesslord19/blackdragon/main/HDFilmizleBest.cs3",
+    "status": 3,
+    "version": 1,
+    "name": "HDFilmizleBest",
+    "internalName": "HDFilmizleBest",
     "authors": [
-      "csprofesor"
+      "Wiojelt"
     ],
-    "description": "Film izle, Hdfilmsitesi ile Online 1080p ve 4K kalite Full HD Filmlere Türkçe Dublaj ve Altyazılı olarak Reklamsız Kesintisiz HD Film izle.",
-    "fileSize": 28993,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
-    "language": "tr",
-    "tvTypes": [
-      "Movie"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmsitesi.net&sz=%size%",
-    "apiVersion": 1,
-    "fileHash": "sha256-1e42cb2ba862c2324ee5084f3f5399880d9a57e2d8db41d0f5089fa148c8467c"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/HintFilmIzle.cs3",
-    "status": 1,
-    "version": 41,
-    "name": "HintFilmIzle",
-    "internalName": "HintFilmIzle",
-    "authors": [
-      "csprofesor"
-    ],
-    "description": "HintFilmizle.com Hint filmleri, yabancı filmler ve diziler",
-    "fileSize": 51821,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
+    "description": "H D Filmizle Best · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 84614,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
     "language": "tr",
     "tvTypes": [
       "Movie",
-      "TvSeries"
+      "TvSeries",
+      "Anime",
+      "Documentary"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.hintfilmizle.com&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.hdfilmizle.best&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-75c59c0f5bdc3bbf64930ae6bde8e72b1310176e3cd111fe727d0451412434c4"
+    "fileHash": "sha256-f51fd047a7e80b619679fdcc3bb241f5c5293e349aea7277ab869129cfd449fb"
   },
   {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/InatBox.cs3",
-    "status": 1,
-    "version": 30,
+    "url": "https://github.com/darknesslord19/blackdragon/main/HDFilmIzleInk.cs3",
+    "status": 3,
+    "version": 7,
+    "name": "HDFilmIzleInk",
+    "internalName": "HDFilmIzleInk",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "HDFilmİzle Ink · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 101413,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmizle.ink&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-f0d65b544e932dba7c6ed88e4197a32ee17a0a6560b42f304584f083f3411cd3"
+  },
+  {
+    "url": "https://github.com/darknesslord19/blackdragon/main/HDFilmIzleVip.cs3",
+    "status": 3,
+    "version": 7,
+    "name": "HDFilmIzleVip",
+    "internalName": "HDFilmIzleVip",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "HDFilmİzle Vip · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 101425,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmizle.vip&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-305e037949dd6321bf87f7b0cc76a5e388b7b98038ec5f1ff1a90470b17c481a"
+  },
+  {
+    "url": "https://github.com/darknesslord19/blackdragon/main/InatBox.cs3",
+    "status": 3,
+    "version": 1,
     "name": "InatBox",
     "internalName": "InatBox",
     "authors": [
-      "csprofesor"
+      "Wiojelt"
     ],
-    "description": "İnatBox cloudstream eklentisidir. Sevdiğiniz yayın platformlarını ve canlı maçları burada bulabilirsiniz.",
-    "fileSize": 36261,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
+    "description": "İnatBox · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 111363,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
     "language": "tr",
     "tvTypes": [
       "Movie",
       "TvSeries",
       "Live"
     ],
-    "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/assets/inatbox.png",
     "apiVersion": 1,
-    "fileHash": "sha256-89059b959696716155e2d66264b70a31937758efa8dd578bdc1c7156acf24ba9"
+    "fileHash": "sha256-d07daa3bc46426d6cfaef4dbf99fc7aa027e4bebb5db7cd621054a395bbe2bc8"
   },
   {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/JetFilmizle.cs3",
-    "status": 1,
-    "version": 47,
+    "url": "https://github.com/darknesslord19/blackdragon/main/JetFilmizle.cs3",
+    "status": 3,
+    "version": 8,
     "name": "JetFilmizle",
     "internalName": "JetFilmizle",
     "authors": [
-      "csprofesor"
+      "Wiojelt"
     ],
-    "description": "Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
-    "fileSize": 18698,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
+    "description": "Jet Filmizle · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 93959,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
     "language": "tr",
     "tvTypes": [
-      "Movie"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=https://jetfilmizle.de&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=jetfilmizle.now&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-1472a4fd418b77e82a5f21a15d838bc8a0a6b4a9c8189611c53c07df3dc916b9"
+    "fileHash": "sha256-9da0d5a1472aadc19c9617485446aef5fb99767ad037bb98bb8e9384d47934df"
   },
   {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/KoreanTurk.cs3",
-    "status": 1,
-    "version": 6,
-    "name": "KoreanTurk",
-    "internalName": "KoreanTurk",
-    "authors": [
-      "csprofesor"
-    ],
-    "description": "Güney Kore sevdalılarının vazgeçemediği ve Türkiye'nin en çok ziyaret edilen Güney Kore Portalı; Koreantürk'e hoşgeldiniz!",
-    "fileSize": 13224,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
-    "language": "tr",
-    "tvTypes": [
-      "AsianDrama"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.koreanturk.com&sz=%size%",
-    "apiVersion": 1,
-    "fileHash": "sha256-97c347f4a7ed1a148b5eda0592a44b4521eeb617857323df91f4bb75809961ea"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/KultFilmler.cs3",
-    "status": 1,
-    "version": 16,
+    "url": "https://github.com/darknesslord19/blackdragon/main/KultFilmler.cs3",
+    "status": 3,
+    "version": 7,
     "name": "KultFilmler",
     "internalName": "KultFilmler",
     "authors": [
-      "csprofesor"
+      "Wiojelt"
     ],
-    "description": "Kült Filmler özenle en iyi filmleri derler ve iyi bir altyazılı film izleme deneyimi sunmayı amaçlar",
-    "fileSize": 27243,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
+    "description": "Kult Filmler · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 88744,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
     "language": "tr",
     "tvTypes": [
       "Movie",
-      "TvSeries"
+      "TvSeries",
+      "Anime",
+      "Documentary"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=kultfilmler.net&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=kultfilmler.net&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-47b263ff6bf1b4f65d17b3aee00112e687de473ce7fd2fd777b17c2ba0290104"
+    "fileHash": "sha256-5b1b7e1d0b13c6268847436d151885dbc189c4e76c074c922ab2836fa4213bf2"
   },
   {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/RareFilmm.cs3",
-    "status": 1,
+    "url": "https://github.com/darknesslord19/blackdragon/main/LiderFilmIzle.cs3",
+    "status": 3,
+    "version": 7,
+    "name": "LiderFilmIzle",
+    "internalName": "LiderFilmIzle",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "LiderFilmİzle · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 103426,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=liderfilmizle.com&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-43de803f76f32c37f86d05ab86e5c4f50ae3b114ae78dc24af03c09f42e17398"
+  },
+  {
+    "url": "https://github.com/darknesslord19/blackdragon/main/Mapple.cs3",
+    "status": 3,
     "version": 3,
+    "name": "Mapple",
+    "internalName": "Mapple",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Mapple - Stream Movies, TV Shows & Anime in HD/4K (mapple.fun). Multi-source HLS streams.",
+    "fileSize": 104305,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+    "language": "all",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/test/builds/logos/mapple.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-ae62e6f49cda20267f4b00b81b49ac4bd5304eb6e5cb826f63cb18426dbba5fa"
+  },
+  {
+    "url": "https://github.com/darknesslord19/blackdragon/main/NetFilmizle.cs3",
+    "status": 3,
+    "version": 1,
+    "name": "NetFilmizle",
+    "internalName": "NetFilmizle",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Net Filmizle · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 93446,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=netfilmizle.com&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-ea766202afecf0bd24caae3f8d29e59cb24c27056867b8c4058a3e807379d632"
+  },
+  {
+    "url": "https://github.com/darknesslord19/blackdragon/main/PowerSinema.cs3",
+    "status": 3,
+    "version": 1,
+    "name": "PowerSinema",
+    "internalName": "PowerSinema",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Power Sinema · 9.000+ Yerli & Yabancı Sinema, Animasyon ve Seri Filmler",
+    "fileSize": 84747,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "AnimeMovie",
+      "Documentary"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-ba6a555a929d7310e5fdbbb402748f435fa29c5fce3d17a7c47668847b8017c8"
+  },
+  {
+    "url": "https://github.com/darknesslord19/blackdragon/main/RareFilmm.cs3",
+    "status": 3,
+    "version": 7,
     "name": "RareFilmm",
     "internalName": "RareFilmm",
     "authors": [
-      "csprofesor"
+      "Wiojelt"
     ],
-    "description": "The Cave of Forgotten Films",
-    "fileSize": 15526,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
-    "language": "en",
+    "description": "Rare Filmm · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 78680,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+    "language": "tr",
     "tvTypes": [
-      "Movie"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=rarefilmm.com&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=rarefilmm.com&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-ee0fb04de0b48668157580be70f981b488e2459e8e2fa1669b34ff7c02e4ca0f"
+    "fileHash": "sha256-6302e579c2bf76abf3f41db396195d4fbd4d1f512e018537978419ed9b1ca684"
   },
   {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/RecTV.cs3",
-    "status": 1,
-    "version": 113,
+    "url": "https://github.com/darknesslord19/blackdragon/main/RecTV.cs3",
+    "status": 3,
+    "version": 2,
     "name": "RecTV",
     "internalName": "RecTV",
     "authors": [
-      "csprofesor"
+      "Wiojelt"
     ],
-    "description": "RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
-    "fileSize": 26628,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
+    "description": "RecTV · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 112366,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
     "language": "tr",
     "tvTypes": [
       "Movie",
-      "Live",
-      "TvSeries"
+      "TvSeries",
+      "Live"
     ],
-    "iconUrl": "https://rectv.org.tr/wp-content/uploads/2024/11/rectv-modified.webp",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/assets/rectv.png",
     "apiVersion": 1,
-    "fileHash": "sha256-6b12435cd6c815b083c259604542eab8a9b43b282960c0a3cdc2ea6a644f6d71"
+    "fileHash": "sha256-afbe5d0e566719c3862fea62f40eac8184ea3a3beb0392c1ba010e33b9b2b2a3"
   },
   {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/RoketDizi.cs3",
-    "status": 1,
-    "version": 15,
-    "name": "RoketDizi",
-    "internalName": "RoketDizi",
-    "authors": [
-      "csprofesor"
-    ],
-    "description": "Türkiye'nin en tatlış yabancı dizi izleme sitesi. Türkçe dublaj, altyazılı, eski ve yeni yabancı dizilerin yanı sıra kore (asya) dizileri izleyebilirsiniz.",
-    "fileSize": 40717,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
-    "language": "tr",
-    "tvTypes": [
-      "TvSeries"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=roketdizi.co&sz=%size%",
-    "apiVersion": 1,
-    "fileHash": "sha256-45f139faa782c5fd56ae0677b050dc1fc4ab849c95ace67ad3ece7a7e3f113ee"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/SelcukFlix.cs3",
-    "status": 1,
-    "version": 2,
-    "name": "SelcukFlix",
-    "internalName": "SelcukFlix",
-    "authors": [
-      "csprofesor"
-    ],
-    "description": "SelcukFlix eklentisi.",
-    "fileSize": 33998,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "iconUrl": "https://selcukflix.co/assets/favicon/favicon-32x32.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-835fd32012016c56acc786a48b2188899708212995931e48d602ef3f0f808b20"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/SetFilmIzle.cs3",
-    "status": 1,
-    "version": 30,
+    "url": "https://github.com/darknesslord19/blackdragon/main/SetFilmIzle.cs3",
+    "status": 3,
+    "version": 7,
     "name": "SetFilmIzle",
     "internalName": "SetFilmIzle",
     "authors": [
-      "csprofesor"
+      "Wiojelt"
     ],
-    "description": "Setfilmizle sitemizde, donma yaşamadan Türkçe dublaj ve altyazılı filmleri ile dizileri muhteşem 1080p full HD kalitesinde izleyebilirsiniz.",
-    "fileSize": 23636,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
+    "description": "Set Film Izle · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 89325,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
     "language": "tr",
     "tvTypes": [
       "Movie",
-      "TvSeries"
+      "TvSeries",
+      "Anime",
+      "Documentary"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.setfilmizle.uk&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.setfilmizle.ltd&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-225a58c29a05c7eea8676fc20ddc359c4e50be2340ac5f3f152843fcf50445c8"
+    "fileHash": "sha256-102660614d27386905ba362c6ec53984a860a6c5fb6a47ca8befc2867ea1c190"
   },
   {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/SezonlukDizi.cs3",
-    "status": 1,
-    "version": 9,
+    "url": "https://github.com/darknesslord19/blackdragon/main/SezonlukDizi.cs3",
+    "status": 3,
+    "version": 7,
     "name": "SezonlukDizi",
     "internalName": "SezonlukDizi",
     "authors": [
-      "csprofesor"
+      "Wiojelt"
     ],
-    "description": "Güncel ve eski dizileri en iyi görüntü kalitesiyle bulabileceğiniz yabancı dizi izleme siteniz.",
-    "fileSize": 21851,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
+    "description": "Sezonluk Dizi · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 83940,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
     "language": "tr",
     "tvTypes": [
-      "TvSeries"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi6.com&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi.cc&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-d20e1936290d33d0aa1ea07a262b371bcfcd866e56363cc2dcf1c1abd60eb91a"
+    "fileHash": "sha256-6460583915f576d128e0730962de872646022192bf736db1bfae5794c9380b61"
   },
   {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/SinemaCX.cs3",
-    "status": 1,
-    "version": 25,
+    "url": "https://github.com/darknesslord19/blackdragon/main/SinemaCX.cs3",
+    "status": 3,
+    "version": 7,
     "name": "SinemaCX",
     "internalName": "SinemaCX",
     "authors": [
-      "csprofesor"
+      "Wiojelt"
     ],
-    "description": "Güncel ve en iyi yabancı filmleri yüksek görüntü kalitesinde, Türkçe dublaj ve altyazı seçenekleriyle filmleri full izleyin.",
-    "fileSize": 16715,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
+    "description": "Sinema C X · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 78863,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
     "language": "tr",
     "tvTypes": [
-      "Movie"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.sinema.cx&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.sinema.gg&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-72a8d8da386d48becd4dca4a49dd47f8cbe87d5178e88ecda1101a719dbb3566"
+    "fileHash": "sha256-2de869dc0849a92016496aa75f0f5cec9e80a254cfcc8fbfddec2b16549a5b7a"
   },
   {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/SinemaTvAz.cs3?v=442ed569a6c2af2dbbadba6fa5f27169e93d0593b7138f14b6609d593599a38e",
-    "status": 1,
+    "url": "https://github.com/darknesslord19/blackdragon/main/SinemaGG.cs3",
+    "status": 3,
     "version": 1,
-    "name": "SinemaTvAz",
-    "internalName": "SinemaTvAz",
+    "name": "SinemaGG",
+    "internalName": "SinemaGG",
     "authors": [
-      "csprofesor"
+      "Wiojelt"
     ],
-    "description": "SinemaTvAz - Azərbaycan dilində filmlər və seriallar",
-    "fileSize": 30651,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
-    "language": "az",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=sinematv.az&sz=%size%",
-    "apiVersion": 1,
-    "fileHash": "sha256-442ed569a6c2af2dbbadba6fa5f27169e93d0593b7138f14b6609d593599a38e"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/SineWix.cs3",
-    "status": 1,
-    "version": 3,
-    "name": "SineWix",
-    "internalName": "SineWix",
-    "authors": [
-      "csprofesor"
-    ],
-    "description": "SineWix | Film - Dizi - Anime İzleme Uygulaması",
-    "fileSize": 30160,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
+    "description": "SinemaGG · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 80263,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
     "language": "tr",
     "tvTypes": [
       "Movie",
       "TvSeries",
-      "Anime"
+      "Anime",
+      "Documentary"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.sinewix.com/&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=sinema.gg&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-c1eb8c939d063e43ff8e8fd03eec66e73f4fb187fa638785d2cc3ed95eeb8e32"
+    "fileHash": "sha256-5cb2570d650f458e0882c43756363be577f9e6062dfcd60270ed6b674a404c97"
   },
   {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/SuperFilmGeldi.cs3",
-    "status": 1,
-    "version": 25,
-    "name": "SuperFilmGeldi",
-    "internalName": "SuperFilmGeldi",
+    "url": "https://github.com/darknesslord19/blackdragon/main/Sinemakolik.cs3",
+    "status": 3,
+    "version": 1,
+    "name": "Sinemakolik",
+    "internalName": "Sinemakolik",
     "authors": [
-      "csprofesor"
+      "Wiojelt"
     ],
-    "description": "Hd film izliyerek arkadaşlarınızla ve sevdiklerinizle iyi bir vakit geçirmek istiyorsanız açın bir film eğlenmeye bakın. Bilim kurgu filmleri, aşk drama vahşet aşk romantik sıradışı korku filmlerini izle.",
-    "fileSize": 22306,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
+    "description": "Sinemakolik · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 91832,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
     "language": "tr",
     "tvTypes": [
-      "Movie"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.superfilmgeldi.biz&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=sinemakolik.com&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-4414ecf6e0432e2f7295619d8e41ef8fb5603b676ece324fc33ed21a3b7a1c28"
+    "fileHash": "sha256-4ea859f7dfb4550bae897e910af7f3dd0f444ad55c85fac5c486268e53aa91ac"
   },
   {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/Tafdi.cs3",
-    "status": 0,
-    "version": 3,
-    "name": "Tafdi",
-    "internalName": "Tafdi",
+    "url": "https://github.com/darknesslord19/blackdragon/main/Sinewix.cs3",
+    "status": 3,
+    "version": 8,
+    "name": "Sinewix",
+    "internalName": "Sinewix",
     "authors": [
-      "csprofesor"
+      "Wiojelt"
     ],
-    "description": "Türkçe altyazılı film izle, full hd olarak film izlemenin keyfini çıkarın. Türkiyenin en büyük film izleme platformu tafdi kalitesiyle sizlerle.",
-    "fileSize": 12617,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
+    "description": "Sinewix · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 88514,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
     "language": "tr",
     "tvTypes": [
-      "Movie"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=tafdi.info&sz=%size%",
+    "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX=w240-h480",
     "apiVersion": 1,
-    "fileHash": "sha256-43c66949c3d37d48de07c04c5d545c9bb1fae95e0f60ff8c57a4941b6e8c7913"
+    "fileHash": "sha256-61fa4572c1ab54b16dbee40614d8657f611f9fb19a8f983ebb07ad7c623739a8"
   },
   {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/TRanimaci.cs3",
-    "status": 1,
-    "version": 19,
-    "name": "TRanimaci",
-    "internalName": "TRanimaci",
+    "url": "https://github.com/darknesslord19/blackdragon/main/Tlctr.cs3",
+    "status": 3,
+    "version": 7,
+    "name": "Tlctr",
+    "internalName": "Tlctr",
     "authors": [
-      "csprofesor"
+      "Wiojelt"
     ],
-    "description": "TRanimeci - Türkiye'nin Online Anime izleme sitesi.",
-    "fileSize": 16863,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
+    "description": "Tlctr · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 76895,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
     "language": "tr",
     "tvTypes": [
-      "Anime"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=tranimaci.com&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.tlctv.com.tr&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-c48bc5c8042edfd196d31c55a28c53d98a892777e624bccdacdce79c888b069c"
+    "fileHash": "sha256-7e82aa08be3ba488190fa38f6f59056eb37c2a9e9e909df969c7631c8db57351"
   },
   {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/TRasyalog.cs3",
-    "status": 1,
-    "version": 65,
-    "name": "TRasyalog",
-    "internalName": "TRasyalog",
-    "authors": [
-      "csprofesor"
-    ],
-    "description": "TRasyalog izleme sitesi.",
-    "fileSize": 15594,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
-    "language": "tr",
-    "tvTypes": [
-      "TvSeries"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=asyalog.co&sz=%size%",
-    "apiVersion": 1,
-    "fileHash": "sha256-6d01026fa4978b7642d336924eeb5e1a788e8bd4047be1d3a4d5ae7426764600"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/TurkAnime.cs3",
-    "status": 1,
-    "version": 14,
-    "name": "TurkAnime",
-    "internalName": "TurkAnime",
-    "authors": [
-      "csprofesor"
-    ],
-    "description": "Türk Anime TV - Türkiye'nin Online Anime izleme sitesi.",
-    "fileSize": 18782,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
-    "language": "tr",
-    "tvTypes": [
-      "Anime"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.turkanime.co&sz=%size%",
-    "apiVersion": 1,
-    "fileHash": "sha256-5ae4a2d1f8957bd8130a854e6175bc3ee7eaa9c53eb349da4a2b0421ceccbd26"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/TvDiziler.cs3",
-    "status": 1,
-    "version": 6,
-    "name": "TvDiziler",
-    "internalName": "TvDiziler",
-    "authors": [
-      "csprofesor"
-    ],
-    "description": "Ücretsiz yerli dizi izleme sitesi en popüler dizileri tek parça hd kalitesiyle ve reklamsız bedava olarak buradan tv dizileri izleyin.",
-    "fileSize": 29036,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
-    "language": "tr",
-    "tvTypes": [
-      "TvSeries"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=tvdiziler.cc&sz=%size%",
-    "apiVersion": 1,
-    "fileHash": "sha256-ae61e416eec6f14e23b8dc1dcdf811adcc1d5790bba8b3cf9150361f8f4299ea"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/UgurFilm.cs3",
-    "status": 1,
-    "version": 6,
-    "name": "UgurFilm",
-    "internalName": "UgurFilm",
-    "authors": [
-      "csprofesor"
-    ],
-    "description": "Yabancı film izle, Türkçe dublaj ve Türkçe altyazılı film seçenekleriyle 720p ve 1080p HD kalitesinde film izle - Uğur Film full hd film izle.",
-    "fileSize": 25827,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
-    "language": "tr",
-    "tvTypes": [
-      "Movie"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=ugurfilm7.com&sz=%size%",
-    "apiVersion": 1,
-    "fileHash": "sha256-9999a9c5ca60dfd662485501d320e1c084853bf78983fff98d83895d53cb5178"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/vavooSpor.cs3",
+    "url": "https://github.com/darknesslord19/blackdragon/main/TrAnimeIzle.cs3",
     "status": 1,
     "version": 2,
-    "name": "vavooSpor",
-    "internalName": "vavooSpor",
+    "name": "TrAnimeIzle",
+    "internalName": "TrAnimeIzle",
     "authors": [
-      "csprofesor"
+      "Wiojelt"
     ],
-    "description": "vavooSpor",
-    "fileSize": 19644,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
+    "description": "TrAnimeİzle · Türkiye'nin en popüler anime izleme platformu",
+    "fileSize": 29300,
+    "repositoryUrl": "https://github.com/Wiojelt/test",
     "language": "tr",
     "tvTypes": [
-      "Live"
+      "Anime",
+      "AnimeMovie",
+      "OVA"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
+    "iconUrl": "https://www.tranimeizle.live/favicon.ico",
     "apiVersion": 1,
-    "fileHash": "sha256-b43bc1be0efc589bf32256f4c8e8f7d33635d3a2fd008e2b60731546c86728d4"
+    "fileHash": "sha256-a7ead2850a4e683c9fdd7ad1a5017f46b69de98bc07d843c9a59691628527a1a"
   },
   {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/Watch2Movies.cs3",
-    "status": 1,
-    "version": 6,
+    "url": "https://github.com/darknesslord19/blackdragon/main/TrDiziIzle.cs3",
+    "status": 3,
+    "version": 7,
+    "name": "TrDiziIzle",
+    "internalName": "TrDiziIzle",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "TrDiziİzle · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 103389,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=trdiziizle.tv&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-f4757602dc84c3f85f85ce534f0bbc53781924395a999f97b523c60c738809bf"
+  },
+  {
+    "url": "https://github.com/darknesslord19/blackdragon/main/Watch2Movies.cs3",
+    "status": 3,
+    "version": 7,
     "name": "Watch2Movies",
     "internalName": "Watch2Movies",
     "authors": [
-      "csprofesor"
+      "Wiojelt"
     ],
-    "description": "Movies2Watch is a Free Movies streaming site with zero ads. We let you watch movies online without having to register or paying, with over 10000 movies and TV-Series.",
-    "fileSize": 24839,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
-    "language": "en",
+    "description": "Watch2 Movies · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 86223,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+    "language": "tr",
     "tvTypes": [
       "Movie",
-      "TvSeries"
+      "TvSeries",
+      "Anime",
+      "Documentary"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=movies2watch.watch&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=movies2watch.watch&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-047f54ee3f3b54b59456018fa136013035674f89a8994aa8f8f1c0c3b5ff954f"
+    "fileHash": "sha256-f6099123d053e5cc5c1b87b4a70ed97d9fdd00445bbb329ded7c5d8a445729b5"
   },
   {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/WebteIzle.cs3",
-    "status": 1,
-    "version": 21,
+    "url": "https://github.com/darknesslord19/blackdragon/main/WebteIzle.cs3",
+    "status": 3,
+    "version": 7,
     "name": "WebteIzle",
     "internalName": "WebteIzle",
     "authors": [
-      "csprofesor"
+      "Wiojelt"
     ],
-    "description": "Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
-    "fileSize": 23200,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
+    "description": "Webte Izle · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 85935,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
     "language": "tr",
     "tvTypes": [
-      "Movie"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle3.xyz&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle3.xyz&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-8b372751b923bf989b733003f4f16ed11e7d14d2023843c5d4c8baf1e2adcd94"
+    "fileHash": "sha256-9ba8f9ac8cb6c0434ac244e82363ddf16a3f2efa74d2cdc71353bf6d80425acc"
   },
   {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/WFilmİzle.cs3",
-    "status": 1,
+    "url": "https://github.com/darknesslord19/blackdragon/main/YabanciDizi.cs3",
+    "status": 3,
     "version": 7,
-    "name": "WFilmİzle",
-    "internalName": "WFilmİzle",
-    "authors": [
-      "csprofesor"
-    ],
-    "description": "Aile Filmleri izle, Yerli ve yabancı en yeni Aile filmlerini Full HD 1080p görüntü kalitesiyle Türkçe Dublaj ve Türkçe Altyazı seçenekleriyle izleyin.",
-    "fileSize": 17216,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
-    "language": "tr",
-    "tvTypes": [
-      "Movie"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=wfilmizle.my&sz=%size%",
-    "apiVersion": 1,
-    "fileHash": "sha256-df72d0fe9229329d2928182a4b83c64f08cd64333f11561c89153117a3deadab"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/XPrime.cs3",
-    "status": 1,
-    "version": 6,
-    "name": "XPrime",
-    "internalName": "XPrime",
-    "authors": [
-      "csprofesor"
-    ],
-    "description": "XPrime.Tv",
-    "fileSize": 31075,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
-    "language": "tr",
-    "tvTypes": [
-      "Movie"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=xprime.tv&sz=%size%",
-    "apiVersion": 1,
-    "fileHash": "sha256-442ad87bc486e3a7e61b75a2dff4b137fd691050c3c7847dcfc9bf59ff182d9f"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/YabanciDizi.cs3",
-    "status": 1,
-    "version": 8,
     "name": "YabanciDizi",
     "internalName": "YabanciDizi",
     "authors": [
-      "csprofesor"
+      "Wiojelt"
     ],
-    "description": "Son çıkan yabancı dizi ve filmleri yabancidizi' de izle. En yeni yabancı film ve diziler, türkçe altyazılı yada dublaj olarak 1080p kalitesinde hd izle.",
-    "fileSize": 49809,
-    "repositoryUrl": "https://github.com/csprofesor/nik-cloudstream",
+    "description": "Yabanci Dizi · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 108785,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
     "language": "tr",
     "tvTypes": [
-      "TvSeries"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=yabancidizi.tv&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=yabancidizi.news&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-ff37203f3d0646e1f524b9359f3f07af047dbacc9b2a7cdba5381413e6f97494"
+    "fileHash": "sha256-3a2dc6c60327160940947e240b4e2eba39379ad0a30a58f73f0b66089d8ed088"
+  },
+  {
+    "url": "https://github.com/darknesslord19/blackdragon/main/YesilCamTv.cs3",
+    "status": 3,
+    "version": 1,
+    "name": "YesilCamTv",
+    "internalName": "YesilCamTv",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Yeşilçam TV · Klasik Türk Sineması, Kemal Sunal, Cüneyt Arkın arşivi",
+    "fileSize": 80944,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=yesilcamtv.com.tr&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-046279dd294e4db54650db759f0cdf70588b264350cd02bfd67beb6a624df2bd"
   }
 ]
