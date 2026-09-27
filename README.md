@@ -1,43 +1,80 @@
 
-### 🔗 Hızlı İşlemler
-
-<a href="#" onclick="navigator.clipboard.writeText('https://raw.githubusercontent.com/darknesslord19/blackdragon/main/repo.json');this.innerText='✅ Kopyalandı!';return false;">
-  <img src="https://img.shields.io/badge/📋%20Repo%20Linkini%20Kopyala-tıkla-blue?style=for-the-badge" alt="Kopyala">
-</a>
-
-<a href="https://raw.githubusercontent.com/darknesslord19/blackdragon/main/repo.json" target="_blank">
-  <img src="https://img.shields.io/badge/🔗%20Repo%20Linkini%20Aç-görüntüle-blueviolet?style=for-the-badge" alt="Aç">
-</a>
-
-<a href="https://github.com/darknesslord19/blackdragon/raw/main/repo.json">
-  <img src="https://img.shields.io/badge/⬇️%20repo.json%20İndir-success?style=for-the-badge&logo=json" alt="İndir">
-</a>
-
-<a href="https://github.com/darknesslord19/blackdragon/archive/refs/heads/main.zip">
-  <img src="https://img.shields.io/badge/📦%20Tüm%20Depoyu%20ZIP%20İndir-orange?style=for-the-badge&logo=github" alt="ZIP">
-</a>
+> Alternatif olarak `.build-trigger` dosyası sayesinde depo otomatik güncellenir.
 
 ---
 
 ## 📦 Mevcut Eklentiler
 
-| Kategori | Eklentiler |
-|----------|------------|
-| **Film** | AltiYuzAltmisAltiFilmIzle, CineCat, CineSimkl, CineStream, FilmIzzle, FilmMakinesi, FilmModu, FlixNetwork, FullHDFilm, FullHDFilmizlesene, HDFilmCehennemi, HDFilmDelisi, HDFilmIzleInk, HDFilmIzleVip, HDFilmizleBest, JetFilmizle, KultFilmler, LiderFilmIzle, Mapple, NetFilmizle, PowerSinema, RareFilmm, SetFilmIzle, SinemaCX, SinemaGG, Sinemakolik, Sinewix, Watch2Movies, WebteIzle, YesilCamTv |
-| **Dizi** | BingeBang, DDizi, DiziBal, DiziBol, DiziBox, DiziFilmIzle, DiziMom, DiziPal, DiziPalOriginal, DiziRella, DiziYou, Dizilla, SezonlukDizi, TrDiziIzle, YabanciDizi |
-| **Anime** | AniArsiv, TrAnimeIzle |
-| **Çizgi Film** | CizgiMax, CizgiVeDizi |
-| **Belgesel** | BelgeselX |
-| **TV** | Dmax, InatBox, RecTV, Tlctr |
-| **Diğer** | ClipBox, CNCVerseDisneyPlus, CNCVerseNetflix, CNCVersePrimeVideo |
+| # | Eklenti | Kategori |
+|---|---------|----------|
+| 1 | AltiYuzAltmisAltiFilmIzle | Film |
+| 2 | AniArsiv | Anime |
+| 3 | BelgeselX | Belgesel |
+| 4 | BingeBang | Dizi/Film |
+| 5 | CNCVerseDisneyPlus | Dizi/Film |
+| 6 | CNCVerseNetflix | Dizi/Film |
+| 7 | CNCVersePrimeVideo | Dizi/Film |
+| 8 | CineCat | Film |
+| 9 | CineSimkl | Film |
+| 10 | CineStream | Film |
+| 11 | CizgiMax | Çizgi Film |
+| 12 | CizgiVeDizi | Çizgi Film |
+| 13 | ClipBox | Klip |
+| 14 | DDizi | Dizi |
+| 15 | DiziBal | Dizi |
+| 16 | DiziBol | Dizi |
+| 17 | DiziBox | Dizi |
+| 18 | DiziFilmIzle | Dizi/Film |
+| 19 | DiziMom | Dizi |
+| 20 | DiziPal | Dizi |
+| 21 | DiziPalOriginal | Dizi |
+| 22 | DiziRella | Dizi |
+| 23 | DiziYou | Dizi |
+| 24 | Dizilla | Dizi |
+| 25 | Dmax | TV |
+| 26 | FilmIzzle | Film |
+| 27 | FilmMakinesi | Film |
+| 28 | FilmModu | Film |
+| 29 | FlixNetwork | Film |
+| 30 | FullHDFilm | Film |
+| 31 | FullHDFilmizlesene | Film |
+| 32 | HDFilmCehennemi | Film |
+| 33 | HDFilmDelisi | Film |
+| 34 | HDFilmIzleInk | Film |
+| 35 | HDFilmIzleVip | Film |
+| 36 | HDFilmizleBest | Film |
+| 37 | InatBox | TV/Film |
+| 38 | JetFilmizle | Film |
+| 39 | KultFilmler | Film |
+| 40 | LiderFilmIzle | Film |
+| 41 | Mapple | Film |
+| 42 | NetFilmizle | Film |
+| 43 | PowerSinema | Film |
+| 44 | RareFilmm | Film |
+| 45 | RecTV | TV |
+| 46 | SetFilmIzle | Film |
+| 47 | SezonlukDizi | Dizi |
+| 48 | SinemaCX | Film |
+| 49 | SinemaGG | Film |
+| 50 | Sinemakolik | Film |
+| 51 | Sinewix | Film |
+| 52 | Tlctr | TV |
+| 53 | TrAnimeIzle | Anime |
+| 54 | TrDiziIzle | Dizi |
+| 55 | Watch2Movies | Film |
+| 56 | WebteIzle | Film |
+| 57 | YabanciDizi | Dizi |
+| 58 | YesilCamTv | Film |
+
+> Not: Eklenti listesi `plugins.json` dosyasına göre güncellenir. Yeni eklenti eklendiğinde bu tablo da güncellenmelidir.
 
 ---
-[![Repo Linkini Kopyala](https://img.shields.io/badge/Cloudstream-Repo%20Linkini%20Kopyala-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/darknesslord19/blackdragon/main/repo.json)
 
-[![repo.json İndir](https://img.shields.io/badge/İndir-repo.json-success?style=for-the-badge&logo=json)](https://raw.githubusercontent.com/darknesslord19/blackdragon/main/repo.json)
-## 🔧 Geliştiriciler için Kurulum
+## 🔧 Kurulum (Geliştiriciler için)
 
 ```bash
 git clone https://github.com/darknesslord19/blackdragon.git
 cd blackdragon
 ./gradlew build
+
+https://raw.githubusercontent.com/darknesslord19/blackdragon/main/repo.json
