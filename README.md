@@ -1,12 +1,21 @@
-# blackdragon
 
-### 🔗 Hızlı Linkler
+### 🔗 Hızlı İşlemler
 
-[![Repo Linkini Aç](https://img.shields.io/badge/Repo%20Linkini%20Aç-tıkla-blue?style=for-the-badge)](https://raw.githubusercontent.com/darknesslord19/blackdragon/main/repo.json)
+<a href="#" onclick="navigator.clipboard.writeText('https://raw.githubusercontent.com/darknesslord19/blackdragon/main/repo.json');this.innerText='✅ Kopyalandı!';return false;">
+  <img src="https://img.shields.io/badge/📋%20Repo%20Linkini%20Kopyala-tıkla-blue?style=for-the-badge" alt="Kopyala">
+</a>
 
-[![repo.json İndir](https://img.shields.io/badge/repo.json-İndir-success?style=for-the-badge&logo=json)](https://github.com/darknesslord19/blackdragon/raw/main/repo.json)
+<a href="https://raw.githubusercontent.com/darknesslord19/blackdragon/main/repo.json" target="_blank">
+  <img src="https://img.shields.io/badge/🔗%20Repo%20Linkini%20Aç-görüntüle-blueviolet?style=for-the-badge" alt="Aç">
+</a>
 
-[![Tüm Depoyu İndir](https://img.shields.io/badge/Tüm%20Depo-ZIP%20İndir-orange?style=for-the-badge&logo=github)](https://github.com/darknesslord19/blackdragon/archive/refs/heads/main.zip)
+<a href="https://github.com/darknesslord19/blackdragon/raw/main/repo.json">
+  <img src="https://img.shields.io/badge/⬇️%20repo.json%20İndir-success?style=for-the-badge&logo=json" alt="İndir">
+</a>
+
+<a href="https://github.com/darknesslord19/blackdragon/archive/refs/heads/main.zip">
+  <img src="https://img.shields.io/badge/📦%20Tüm%20Depoyu%20ZIP%20İndir-orange?style=for-the-badge&logo=github" alt="ZIP">
+</a>
 
 ---
 
