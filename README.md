@@ -32,7 +32,9 @@
 | **Diğer** | ClipBox, CNCVerseDisneyPlus, CNCVerseNetflix, CNCVersePrimeVideo |
 
 ---
+[![Repo Linkini Kopyala](https://img.shields.io/badge/Cloudstream-Repo%20Linkini%20Kopyala-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/darknesslord19/blackdragon/main/repo.json)
 
+[![repo.json İndir](https://img.shields.io/badge/İndir-repo.json-success?style=for-the-badge&logo=json)](https://raw.githubusercontent.com/darknesslord19/blackdragon/main/repo.json)
 ## 🔧 Geliştiriciler için Kurulum
 
 ```bash
