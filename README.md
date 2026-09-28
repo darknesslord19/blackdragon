@@ -72,9 +72,4 @@
 
 ## 🔧 Kurulum (Geliştiriciler için)
 
-```bash
-git clone https://github.com/darknesslord19/blackdragon.git
-cd blackdragon
-./gradlew build
-
 https://raw.githubusercontent.com/darknesslord19/blackdragon/main/repo.json
