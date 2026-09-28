@@ -569,6 +569,27 @@
     "fileHash": "sha256-fdced277b31dfbe2b41c15a3e1f68ef156e9308ebdfb652733ae4ff6df18554f"
   },
   {
+    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/DramaDizilerim.cs3",
+    "status": 3,
+    "version": 3,
+    "name": "DramaDizilerim",
+    "internalName": "DramaDizilerim",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "DramaDizilerim kısa dizi, Asya dizileri, GoodShort ve ReelShort Türkçe dublaj/altyazılı akışları.",
+    "fileSize": 21415,
+    "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/logo.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-fe481c96e7a9b29974f02668547d449da5939fe404d32d76b4afeb6398d47838"
+  },
+  {
     "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/FilmIzzle.cs3",
     "status": 3,
     "version": 7,
@@ -753,29 +774,6 @@
     "fileHash": "sha256-7611da9bdaeba32beb5da5270998bcd85161828561d1d9b2fa9dad2dc63ff6b9"
   },
   {
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/HDFilmizleBest.cs3",
-    "status": 3,
-    "version": 1,
-    "name": "HDFilmizleBest",
-    "internalName": "HDFilmizleBest",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "H D Filmizle Best · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 84614,
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.hdfilmizle.best&sz=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-f51fd047a7e80b619679fdcc3bb241f5c5293e349aea7277ab869129cfd449fb"
-  },
-  {
     "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/HDFilmIzleInk.cs3",
     "status": 3,
     "version": 7,
@@ -820,6 +818,29 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmizle.vip&sz=128",
     "apiVersion": 1,
     "fileHash": "sha256-305e037949dd6321bf87f7b0cc76a5e388b7b98038ec5f1ff1a90470b17c481a"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/HDFilmizleBest.cs3",
+    "status": 3,
+    "version": 1,
+    "name": "HDFilmizleBest",
+    "internalName": "HDFilmizleBest",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "H D Filmizle Best · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 84614,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.hdfilmizle.best&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-f51fd047a7e80b619679fdcc3bb241f5c5293e349aea7277ab869129cfd449fb"
   },
   {
     "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/InatBox.cs3",
@@ -956,6 +977,27 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=netfilmizle.com&sz=128",
     "apiVersion": 1,
     "fileHash": "sha256-ea766202afecf0bd24caae3f8d29e59cb24c27056867b8c4058a3e807379d632"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/NetShort.cs3",
+    "status": 3,
+    "version": 2,
+    "name": "NetShort",
+    "internalName": "NetShort",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "NetShort kısa dizi ve dikey mini drama Türkçe dublaj/altyazılı akışları.",
+    "fileSize": 29902,
+    "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/logo.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-39b537a988264af8e4579aaa049676c9b5528a21bdf4986368438130a3e36824"
   },
   {
     "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/PowerSinema.cs3",
