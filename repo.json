@@ -3,6 +3,6 @@
   "description": "Türkçe CloudStream eklenti havuzu",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/plugins.json"
+    "https://darknes-lord-paste-default-rtdb.firebaseio.com/pastes/plugins.json"
   ]
 }
