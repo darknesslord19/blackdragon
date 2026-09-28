@@ -3,6 +3,6 @@
   "description": "Türkçe CloudStream eklenti havuzu",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://cloudstream-repo-default-rtdb.firebaseio.com/pastes/plugins.json"
+    "https://darknes-lord-paste-default-rtdb.firebaseio.com/pastes/plugins.json"
   ]
 }
