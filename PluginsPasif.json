@@ -4,29 +4,6 @@
     "authors": [
       "Wiojelt"
     ],
-    "description": "Belgesel X · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-d3f664711d78b1d499e104e885b4f9cc107680be6ac29473c19e495769f0df26",
-    "fileSize": 91248,
-    "iconUrl": "https://www.google.com/s2/favicons?domain=belgeselx.com&sz=128",
-    "internalName": "BelgeselX",
-    "language": "tr",
-    "name": "BelgeselX",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/BelgeselX.cs3",
-    "version": 7
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Wiojelt"
-    ],
     "description": "BingeBang - Film ve Dizi Portali (bingebang.tv). 4K Ultra HD ve Full HD HLS akislari.",
     "fileHash": "sha256-575a53885be3256667afedd12de27a1b894aac352874395108205b57792b8947",
     "fileSize": 94435,
