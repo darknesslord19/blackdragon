@@ -1256,27 +1256,6 @@
     "authors": [
       "Wiojelt"
     ],
-    "description": "BingeBang - Film ve Dizi Portali (bingebang.tv). 4K Ultra HD ve Full HD HLS akislari.",
-    "fileHash": "sha256-575a53885be3256667afedd12de27a1b894aac352874395108205b57792b8947",
-    "fileSize": 94435,
-    "iconUrl": "https://bingebang.tv/icon-512.png",
-    "internalName": "BingeBang",
-    "language": "tr",
-    "name": "BingeBang",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/BingeBang.cs3",
-    "version": 1
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Wiojelt"
-    ],
     "description": "Alti Yuz Altmis Alti Film Izle · TurkSinema ayrı sağlayıcı paketi",
     "fileHash": "sha256-41df64bbc7738ce8f4820c4be783103155c9541d94e6aef86d0f0140ff44a10a",
     "fileSize": 74799,
@@ -1360,5 +1339,26 @@
     "iconUrl": "https://raw.githubusercontent.com/darkneslord19/darkneslord/main/uploads/1790635104034_1000154628.png",
     "apiVersion": 1,
     "fileHash": "sha256-d07daa3bc46426d6cfaef4dbf99fc7aa027e4bebb5db7cd621054a395bbe2bc8"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/BingeBang.cs3",
+    "status": 3,
+    "version": 1,
+    "name": "BingeBang",
+    "internalName": "BingeBang",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "BingeBang - Film ve Dizi Portali (bingebang.tv). 4K Ultra HD ve Full HD HLS akislari.",
+    "fileSize": 94435,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://bingebang.st/assets/img/brand/logo-rect.svg",
+    "apiVersion": 1,
+    "fileHash": "sha256-575a53885be3256667afedd12de27a1b894aac352874395108205b57792b8947"
   }
 ]
