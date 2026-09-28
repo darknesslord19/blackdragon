@@ -758,28 +758,6 @@
     "authors": [
       "Wiojelt"
     ],
-    "description": "İnatBox · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-d07daa3bc46426d6cfaef4dbf99fc7aa027e4bebb5db7cd621054a395bbe2bc8",
-    "fileSize": 111363,
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/assets/inatbox.png",
-    "internalName": "InatBox",
-    "language": "tr",
-    "name": "InatBox",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Live"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/InatBox.cs3",
-    "version": 1
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Wiojelt"
-    ],
     "description": "Jet Filmizle · TurkSinema ayrı sağlayıcı paketi",
     "fileHash": "sha256-9da0d5a1472aadc19c9617485446aef5fb99767ad037bb98bb8e9384d47934df",
     "fileSize": 93959,
@@ -1360,5 +1338,27 @@
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/test/builds/logos/mapple.png",
     "apiVersion": 1,
     "fileHash": "sha256-ae62e6f49cda20267f4b00b81b49ac4bd5304eb6e5cb826f63cb18426dbba5fa"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/InatBox.cs3",
+    "status": 3,
+    "version": 1,
+    "name": "InatBox",
+    "internalName": "InatBox",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "İnatBox · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 111363,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/darkneslord19/darkneslord/main/uploads/1790635104034_1000154628.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-d07daa3bc46426d6cfaef4dbf99fc7aa027e4bebb5db7cd621054a395bbe2bc8"
   }
 ]
