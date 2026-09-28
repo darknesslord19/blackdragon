@@ -1319,6 +1319,27 @@
     "fileHash": "sha256-d07daa3bc46426d6cfaef4dbf99fc7aa027e4bebb5db7cd621054a395bbe2bc8"
   },
   {
+    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/BingeBang.cs3",
+    "status": 3,
+    "version": 1,
+    "name": "BingeBang",
+    "internalName": "BingeBang",
+    "authors": [
+      "Darknes-lord"
+    ],
+    "description": "BingeBang - Film ve Dizi Portali (bingebang.tv). 4K Ultra HD ve Full HD HLS akislari.",
+    "fileSize": 94435,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/darkneslord19/darkneslord/main/uploads/1790639565867_1000154647.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-575a53885be3256667afedd12de27a1b894aac352874395108205b57792b8947"
+  },
+  {
     "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/RecTV.cs3",
     "status": 3,
     "version": 2,
@@ -1339,26 +1360,5 @@
     "iconUrl": "https://image.winudf.com/v2/image1/Y29tLnJlY3R2LnJlY3R2X2FwcF9pY29uXzE2MTQ1MDI3MTNfMDE4/icon.png?fakeurl=1&h=240&type=webp",
     "apiVersion": 1,
     "fileHash": "sha256-afbe5d0e566719c3862fea62f40eac8184ea3a3beb0392c1ba010e33b9b2b2a3"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/BingeBang.cs3",
-    "status": 3,
-    "version": 1,
-    "name": "BingeBang",
-    "internalName": "BingeBang",
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "BingeBang - Film ve Dizi Portali (bingebang.tv). 4K Ultra HD ve Full HD HLS akislari.",
-    "fileSize": 94435,
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/darkneslord19/darkneslord/main/uploads/1790639565867_1000154647.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-575a53885be3256667afedd12de27a1b894aac352874395108205b57792b8947"
   }
 ]
