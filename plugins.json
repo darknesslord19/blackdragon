@@ -26,28 +26,6 @@
     "authors": [
       "Wiojelt"
     ],
-    "description": "Cinecat · Dizi & Film Portalı (cinecat.eu)",
-    "fileHash": "sha256-dd3457796717da7b9d3e2c542b68b872bbecdbe0f2e00d0de35b16703dcbeec3",
-    "fileSize": 796207,
-    "iconUrl": "https://cinecat.eu/android-chrome-192x192.png?v=3",
-    "internalName": "CineCat",
-    "language": "all",
-    "name": "CineCat",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/CineCat.cs3",
-    "version": 2
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Wiojelt"
-    ],
     "description": "CineSimkl · TurkSinema ayrı sağlayıcı paketi",
     "fileHash": "sha256-0f2976e23e1858a10e33b1e9a17f35bc933262ddb4f43a275c189cdb8e181916",
     "fileSize": 795765,
@@ -1360,5 +1338,27 @@
     ],
     "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/AltiYuzAltmisAltiFilmIzle.cs3",
     "version": 8
+  },
+  {
+    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/CineCat.cs3",
+    "status": 3,
+    "version": 2,
+    "name": "CineCat",
+    "internalName": "CineCat",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Cinecat · Dizi & Film Portalı (cinecat.eu)",
+    "fileSize": 796207,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime"
+    ],
+    "iconUrl": "https://cinecat.eu/android-chrome-192x192.png?v=3",
+    "apiVersion": 1,
+    "fileHash": "sha256-dd3457796717da7b9d3e2c542b68b872bbecdbe0f2e00d0de35b16703dcbeec3"
   }
 ]
