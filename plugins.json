@@ -849,28 +849,6 @@
     "authors": [
       "Wiojelt"
     ],
-    "description": "Mapple - Stream Movies, TV Shows & Anime in HD/4K (mapple.fun). Multi-source HLS streams.",
-    "fileHash": "sha256-ae62e6f49cda20267f4b00b81b49ac4bd5304eb6e5cb826f63cb18426dbba5fa",
-    "fileSize": 104305,
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/test/builds/logos/mapple.png",
-    "internalName": "Mapple",
-    "language": "all",
-    "name": "Mapple",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/Mapple.cs3",
-    "version": 3
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Wiojelt"
-    ],
     "description": "Net Filmizle · TurkSinema ayrı sağlayıcı paketi",
     "fileHash": "sha256-ea766202afecf0bd24caae3f8d29e59cb24c27056867b8c4058a3e807379d632",
     "fileSize": 93446,
@@ -1360,5 +1338,27 @@
     "iconUrl": "https://cinecat.eu/android-chrome-192x192.png?v=3",
     "apiVersion": 1,
     "fileHash": "sha256-dd3457796717da7b9d3e2c542b68b872bbecdbe0f2e00d0de35b16703dcbeec3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/Mapple.cs3",
+    "status": 3,
+    "version": 3,
+    "name": "Mapple",
+    "internalName": "Mapple",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Mapple - Stream Movies, TV Shows & Anime in HD/4K (mapple.fun). Multi-source HLS streams.",
+    "fileSize": 104305,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/test/builds/logos/mapple.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-ae62e6f49cda20267f4b00b81b49ac4bd5304eb6e5cb826f63cb18426dbba5fa"
   }
 ]
