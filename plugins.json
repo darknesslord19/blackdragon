@@ -1403,5 +1403,65 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/master/Vavoo/Vavoo.jpg",
     "apiVersion": 1
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+    "fileSize": 18697,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "Darkneslord"
+    ],
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "version": 3,
+    "internalName": "powerDizi",
+    "description": "powerDizi",
+    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/powerDizi.cs3",
+    "name": "powerDizi",
+    "fileHash": "sha256-3f2641e7b34f171527ab7e8ab29739701d68d18d80a110d96cfe7c20ae6342fa"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+    "fileSize": 18690,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "Darkneslord"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "version": 3,
+    "internalName": "powerSinema",
+    "description": "powerSinema",
+    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/powerSinema.cs3",
+    "name": "powerSinema",
+    "fileHash": "sha256-bdd939a3cb1355b787c0f9ad6afa3c122af231009d3cadcd601c9545f0479dad"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=xprime.tv&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+    "fileSize": 28280,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "Darkneslord"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "version": 6,
+    "internalName": "XPrime",
+    "description": "XPrime.Tv",
+    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/XPrime.cs3",
+    "name": "XPrime",
+    "fileHash": "sha256-65dd7071b4bf3e657f641b4aebc790b8493279daa1fbdb3a301ff62c966e3b93"
   }
 ]
