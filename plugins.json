@@ -1,1389 +1,1407 @@
 [
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "AniArşiv · Güncel ve klasik anime arşivi, Türkçe altyazı",
-    "fileHash": "sha256-2ae3dc6348f98bb3ddc871311715a0a9c9978117e22e71b3ddf5b7f40f4b50ad",
-    "fileSize": 13090,
-    "iconUrl": "https://aniarsiv.com/favicon.ico",
-    "internalName": "AniArsiv",
-    "language": "tr",
-    "name": "AniArsiv",
-    "repositoryUrl": "https://github.com/Wiojelt/test",
-    "status": 1,
-    "tvTypes": [
-      "Anime",
-      "AnimeMovie",
-      "OVA"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/AniArsiv.cs3",
-    "version": 1
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "CineSimkl · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-0f2976e23e1858a10e33b1e9a17f35bc933262ddb4f43a275c189cdb8e181916",
-    "fileSize": 795765,
-    "iconUrl": "https://www.google.com/s2/favicons?domain=simkl.com&sz=128",
-    "internalName": "CineSimkl",
-    "language": "tr",
-    "name": "CineSimkl",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/CineSimkl.cs3",
-    "version": 7
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "CineStream · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-ec1a167ff05ef76e403876791e64c19fb5e91040a845b600af128c71e239552f",
-    "fileSize": 795759,
-    "iconUrl": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/master/CineStream/icon.png",
-    "internalName": "CineStream",
-    "language": "tr",
-    "name": "CineStream",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/CineStream.cs3",
-    "version": 7
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "Cizgi Max · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-bb87fbeb41cfe93d7df8c674940c50cdc950eb0431cc63acc6a449d40cb9593b",
-    "fileSize": 96852,
-    "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=128",
-    "internalName": "CizgiMax",
-    "language": "tr",
-    "name": "CizgiMax",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/CizgiMax.cs3",
-    "version": 7
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "Çizgi, anime, dizi ve film kataloğu; güncel merkez player ve bölüm kaynaklarını çözer.",
-    "fileHash": "sha256-fc053a7b4660ceb915ad5eae27222408665d9e7b1132f943360b2e1ce2688f7d",
-    "fileSize": 35829,
-    "iconUrl": "https://cizgivedizi.com/Logo.png",
-    "internalName": "CizgiVeDizi",
-    "language": "tr",
-    "name": "CizgiVeDizi",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 1,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/CizgiVeDizi.cs3",
-    "version": 13
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "Clip Box · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-336bd8a1afe191713b8fece1e2f6441fa6977d435b55eea97578a01686bcf34b",
-    "fileSize": 801833,
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/ClipBox.png",
-    "internalName": "ClipBox",
-    "language": "tr",
-    "name": "ClipBox",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/ClipBox.cs3",
-    "version": 7
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "Disney Plus · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-3f1ff90e7b568901d25ea5a4184a7c348dc6d48dacdb30c5c9b9621d8f0b1c94",
-    "fileSize": 119113,
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png",
-    "internalName": "CNCVerseDisneyPlus",
-    "language": "tr",
-    "name": "CNCVerseDisneyPlus",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/CNCVerseDisneyPlus.cs3",
-    "version": 8
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "Netflix Mirror · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-9d216204571eff7574a8d98d1075505efc29b069d9121c348d39e28b34c06a08",
-    "fileSize": 119092,
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png",
-    "internalName": "CNCVerseNetflix",
-    "language": "tr",
-    "name": "CNCVerseNetflix",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/CNCVerseNetflix.cs3",
-    "version": 8
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "Prime Video Mirror · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-25f57e02fc356d1c8a9641b3f29b37a81965512c00f65ffc22423130de32cd6b",
-    "fileSize": 119115,
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png",
-    "internalName": "CNCVersePrimeVideo",
-    "language": "tr",
-    "name": "CNCVersePrimeVideo",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/CNCVersePrimeVideo.cs3",
-    "version": 8
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "D Dizi · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-74ffcd898c38dd653e8dd310578ca651e27dd9aa60e92d28d79d918dbcde095c",
-    "fileSize": 82380,
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.ddizi.im&sz=128",
-    "internalName": "DDizi",
-    "language": "tr",
-    "name": "DDizi",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/DDizi.cs3",
-    "version": 7
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "DiziBal · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-7bb9296ed4e6c0a50edf74d5f4d7fc395afc66817a972048a4f555ca36d9f454",
-    "fileSize": 103368,
-    "iconUrl": "https://www.google.com/s2/favicons?domain=dizibal.com&sz=128",
-    "internalName": "DiziBal",
-    "language": "tr",
-    "name": "DiziBal",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/DiziBal.cs3",
-    "version": 7
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "DiziBol · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-f6acfd481d0deecbe33e34bfac3554ae22725b1c7c610613a777054165883635",
-    "fileSize": 103392,
-    "iconUrl": "https://www.google.com/s2/favicons?domain=dizibol.com&sz=128",
-    "internalName": "DiziBol",
-    "language": "tr",
-    "name": "DiziBol",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/DiziBol.cs3",
-    "version": 7
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "Dizi Box · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-bceae3dbcd3a5d4943a3872af45a48794c06378a4bf0ce5d6ae00815bb4ded6c",
-    "fileSize": 84685,
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.live&sz=128",
-    "internalName": "DiziBox",
-    "language": "tr",
-    "name": "DiziBox",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/DiziBox.cs3",
-    "version": 7
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "DiziFilmİzle · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-26485950a00caec692a46b5e6005dfeedabe2721abcc600398cb34577750e2ba",
-    "fileSize": 103420,
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziFilmIzle.jpg",
-    "internalName": "DiziFilmIzle",
-    "language": "tr",
-    "name": "DiziFilmIzle",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/DiziFilmIzle.cs3",
-    "version": 8
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "Dizilla · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-df8e3e9dfb5e87e2c48f95324825c6ae2e696d7066b5bb98e6d70648ad9b2e10",
-    "fileSize": 97071,
-    "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=128",
-    "internalName": "Dizilla",
-    "language": "tr",
-    "name": "Dizilla",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/Dizilla.cs3",
-    "version": 7
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "Dizi Mom · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-f60676091f13513555918a355dcd12bbb84151276786d50ac057b89e526cb14f",
-    "fileSize": 95994,
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziMom.png",
-    "internalName": "DiziMom",
-    "language": "tr",
-    "name": "DiziMom",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/DiziMom.cs3",
-    "version": 8
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "Dizi Pal · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-e05bdd7f25491a7f95aba099d983527b4e178feb866ddc285eb83421d433c14d",
-    "fileSize": 91945,
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziPal.png",
-    "internalName": "DiziPal",
-    "language": "tr",
-    "name": "DiziPal",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/DiziPal.cs3",
-    "version": 9
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "Dizi Pal Original · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-c5233540a90a95a764d55e2d00cb382ecdb5ff4e0f9f30bd875e290df2e712c4",
-    "fileSize": 91370,
-    "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal2123.com&sz=128",
-    "internalName": "DiziPalOriginal",
-    "language": "tr",
-    "name": "DiziPalOriginal",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/DiziPalOriginal.cs3",
-    "version": 8
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "DiziRella · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-7a39d0f04c6fa10366ede99624bd42dafd476ebc503643a86dd8f0f171e98b3d",
-    "fileSize": 103428,
-    "iconUrl": "https://www.google.com/s2/favicons?domain=dizirella.net&sz=128",
-    "internalName": "DiziRella",
-    "language": "tr",
-    "name": "DiziRella",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/DiziRella.cs3",
-    "version": 7
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "Dizi You · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-ae5620dcedb45d9c01d395c045426b3526a94201890cda8edbda6be752927d7e",
-    "fileSize": 79435,
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.diziyou.one&sz=128",
-    "internalName": "DiziYou",
-    "language": "tr",
-    "name": "DiziYou",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/DiziYou.cs3",
-    "version": 7
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "DMAX · Belgesel, Macera, Canlı TV & Popüler Programlar (dmax.com.tr)",
-    "fileHash": "sha256-fdced277b31dfbe2b41c15a3e1f68ef156e9308ebdfb652733ae4ff6df18554f",
-    "fileSize": 82967,
-    "iconUrl": "https://img-dmax.mncdn.com/dmaxcomtr_logo.png",
-    "internalName": "Dmax",
-    "language": "tr",
-    "name": "Dmax",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Documentary",
-      "TvSeries",
-      "Live"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/Dmax.cs3",
-    "version": 1
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "DramaDizilerim kısa dizi, Asya dizileri, GoodShort ve ReelShort Türkçe dublaj/altyazılı akışları.",
-    "fileHash": "sha256-fe481c96e7a9b29974f02668547d449da5939fe404d32d76b4afeb6398d47838",
-    "fileSize": 21415,
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/logo.png",
-    "internalName": "DramaDizilerim",
-    "language": "tr",
-    "name": "DramaDizilerim",
-    "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
-    "status": 3,
-    "tvTypes": [
-      "TvSeries",
-      "AsianDrama"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/DramaDizilerim.cs3",
-    "version": 3
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "FilmIzzle · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-6dea5532f6af3cec9f554acd2b21d2f6dd2caa7fefb382e34056ab0ac96a584f",
-    "fileSize": 103431,
-    "iconUrl": "https://www.google.com/s2/favicons?domain=filmizzle.com&sz=128",
-    "internalName": "FilmIzzle",
-    "language": "tr",
-    "name": "FilmIzzle",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/FilmIzzle.cs3",
-    "version": 7
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "Film Makinesi · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-302161968466a5cc374ab502794ba035c01ec126616660e90634d569f218d4ef",
-    "fileSize": 82757,
-    "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.to&sz=128",
-    "internalName": "FilmMakinesi",
-    "language": "tr",
-    "name": "FilmMakinesi",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/FilmMakinesi.cs3",
-    "version": 8
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "Film Modu · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-17957840872681e56195cf4743889a6e9c21f60a80958c4ed6eee8fa1015e595",
-    "fileSize": 80025,
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/FilmModu.png",
-    "internalName": "FilmModu",
-    "language": "tr",
-    "name": "FilmModu",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/FilmModu.cs3",
-    "version": 8
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "Flix Network · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-742a41f0d7203a486ef8c073113c101b7a428519f2ca1fe6cdfa469e076f7d4c",
-    "fileSize": 82004,
-    "iconUrl": "https://www.google.com/s2/favicons?domain=flixnetwork.is&sz=128",
-    "internalName": "FlixNetwork",
-    "language": "tr",
-    "name": "FlixNetwork",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/FlixNetwork.cs3",
-    "version": 7
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "Full H D Film · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-04f4afc22c31d1a84cd81382cab1ffedb3ee1e9eef94b790c1c6b607db6ef722",
-    "fileSize": 89672,
-    "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilm.us&sz=128",
-    "internalName": "FullHDFilm",
-    "language": "tr",
-    "name": "FullHDFilm",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/FullHDFilm.cs3",
-    "version": 7
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "Full H D Filmizlesene · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-19b8aece6dd59fef030074aeb4103838ab73569bef17fe966a32b2b3a0350c8d",
-    "fileSize": 102916,
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.now&sz=128",
-    "internalName": "FullHDFilmizlesene",
-    "language": "tr",
-    "name": "FullHDFilmizlesene",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/FullHDFilmizlesene.cs3",
-    "version": 7
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "H D Film Cehennemi · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-b4e37db8b593558bae430deb3fdd05e004f7162fc4a6c0fe6795a27cd02d9978",
-    "fileSize": 93367,
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.hdfilmcehennemi.nl&sz=128",
-    "internalName": "HDFilmCehennemi",
-    "language": "tr",
-    "name": "HDFilmCehennemi",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/HDFilmCehennemi.cs3",
-    "version": 7
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "H D Film Delisi · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-7611da9bdaeba32beb5da5270998bcd85161828561d1d9b2fa9dad2dc63ff6b9",
-    "fileSize": 123880,
-    "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmdelisi.one&sz=128",
-    "internalName": "HDFilmDelisi",
-    "language": "tr",
-    "name": "HDFilmDelisi",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/HDFilmDelisi.cs3",
-    "version": 7
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "HDFilmİzle Ink · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-f0d65b544e932dba7c6ed88e4197a32ee17a0a6560b42f304584f083f3411cd3",
-    "fileSize": 101413,
-    "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmizle.ink&sz=128",
-    "internalName": "HDFilmIzleInk",
-    "language": "tr",
-    "name": "HDFilmIzleInk",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/HDFilmIzleInk.cs3",
-    "version": 7
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "HDFilmİzle Vip · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-305e037949dd6321bf87f7b0cc76a5e388b7b98038ec5f1ff1a90470b17c481a",
-    "fileSize": 101425,
-    "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmizle.vip&sz=128",
-    "internalName": "HDFilmIzleVip",
-    "language": "tr",
-    "name": "HDFilmIzleVip",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/HDFilmIzleVip.cs3",
-    "version": 7
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "H D Filmizle Best · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-f51fd047a7e80b619679fdcc3bb241f5c5293e349aea7277ab869129cfd449fb",
-    "fileSize": 84614,
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.hdfilmizle.best&sz=128",
-    "internalName": "HDFilmizleBest",
-    "language": "tr",
-    "name": "HDFilmizleBest",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/HDFilmizleBest.cs3",
-    "version": 1
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "Jet Filmizle · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-9da0d5a1472aadc19c9617485446aef5fb99767ad037bb98bb8e9384d47934df",
-    "fileSize": 93959,
-    "iconUrl": "https://www.google.com/s2/favicons?domain=jetfilmizle.now&sz=128",
-    "internalName": "JetFilmizle",
-    "language": "tr",
-    "name": "JetFilmizle",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/JetFilmizle.cs3",
-    "version": 8
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "Kult Filmler · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-5b1b7e1d0b13c6268847436d151885dbc189c4e76c074c922ab2836fa4213bf2",
-    "fileSize": 88744,
-    "iconUrl": "https://www.google.com/s2/favicons?domain=kultfilmler.net&sz=128",
-    "internalName": "KultFilmler",
-    "language": "tr",
-    "name": "KultFilmler",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/KultFilmler.cs3",
-    "version": 7
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "LiderFilmİzle · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-43de803f76f32c37f86d05ab86e5c4f50ae3b114ae78dc24af03c09f42e17398",
-    "fileSize": 103426,
-    "iconUrl": "https://www.google.com/s2/favicons?domain=liderfilmizle.com&sz=128",
-    "internalName": "LiderFilmIzle",
-    "language": "tr",
-    "name": "LiderFilmIzle",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/LiderFilmIzle.cs3",
-    "version": 7
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "Net Filmizle · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-ea766202afecf0bd24caae3f8d29e59cb24c27056867b8c4058a3e807379d632",
-    "fileSize": 93446,
-    "iconUrl": "https://www.google.com/s2/favicons?domain=netfilmizle.com&sz=128",
-    "internalName": "NetFilmizle",
-    "language": "tr",
-    "name": "NetFilmizle",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/NetFilmizle.cs3",
-    "version": 1
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "NetShort kısa dizi ve dikey mini drama Türkçe dublaj/altyazılı akışları.",
-    "fileHash": "sha256-39b537a988264af8e4579aaa049676c9b5528a21bdf4986368438130a3e36824",
-    "fileSize": 29902,
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/logo.png",
-    "internalName": "NetShort",
-    "language": "tr",
-    "name": "NetShort",
-    "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
-    "status": 3,
-    "tvTypes": [
-      "TvSeries",
-      "AsianDrama"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/NetShort.cs3",
-    "version": 2
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "Power Sinema · 9.000+ Yerli & Yabancı Sinema, Animasyon ve Seri Filmler",
-    "fileHash": "sha256-ba6a555a929d7310e5fdbbb402748f435fa29c5fce3d17a7c47668847b8017c8",
-    "fileSize": 84747,
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png",
-    "internalName": "PowerSinema",
-    "language": "tr",
-    "name": "PowerSinema",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "AnimeMovie",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/PowerSinema.cs3",
-    "version": 1
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "Rare Filmm · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-6302e579c2bf76abf3f41db396195d4fbd4d1f512e018537978419ed9b1ca684",
-    "fileSize": 78680,
-    "iconUrl": "https://www.google.com/s2/favicons?domain=rarefilmm.com&sz=128",
-    "internalName": "RareFilmm",
-    "language": "tr",
-    "name": "RareFilmm",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/RareFilmm.cs3",
-    "version": 7
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "Set Film Izle · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-102660614d27386905ba362c6ec53984a860a6c5fb6a47ca8befc2867ea1c190",
-    "fileSize": 89325,
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.setfilmizle.ltd&sz=128",
-    "internalName": "SetFilmIzle",
-    "language": "tr",
-    "name": "SetFilmIzle",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/SetFilmIzle.cs3",
-    "version": 7
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "Sezonluk Dizi · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-6460583915f576d128e0730962de872646022192bf736db1bfae5794c9380b61",
-    "fileSize": 83940,
-    "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi.cc&sz=128",
-    "internalName": "SezonlukDizi",
-    "language": "tr",
-    "name": "SezonlukDizi",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/SezonlukDizi.cs3",
-    "version": 7
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "Sinema C X · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-2de869dc0849a92016496aa75f0f5cec9e80a254cfcc8fbfddec2b16549a5b7a",
-    "fileSize": 78863,
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.sinema.gg&sz=128",
-    "internalName": "SinemaCX",
-    "language": "tr",
-    "name": "SinemaCX",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/SinemaCX.cs3",
-    "version": 7
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "SinemaGG · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-5cb2570d650f458e0882c43756363be577f9e6062dfcd60270ed6b674a404c97",
-    "fileSize": 80263,
-    "iconUrl": "https://www.google.com/s2/favicons?domain=sinema.gg&sz=128",
-    "internalName": "SinemaGG",
-    "language": "tr",
-    "name": "SinemaGG",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/SinemaGG.cs3",
-    "version": 1
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "Sinemakolik · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-4ea859f7dfb4550bae897e910af7f3dd0f444ad55c85fac5c486268e53aa91ac",
-    "fileSize": 91832,
-    "iconUrl": "https://www.google.com/s2/favicons?domain=sinemakolik.com&sz=128",
-    "internalName": "Sinemakolik",
-    "language": "tr",
-    "name": "Sinemakolik",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/Sinemakolik.cs3",
-    "version": 1
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "Sinewix · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-61fa4572c1ab54b16dbee40614d8657f611f9fb19a8f983ebb07ad7c623739a8",
-    "fileSize": 88514,
-    "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX=w240-h480",
-    "internalName": "Sinewix",
-    "language": "tr",
-    "name": "Sinewix",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/Sinewix.cs3",
-    "version": 8
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "Tlctr · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-7e82aa08be3ba488190fa38f6f59056eb37c2a9e9e909df969c7631c8db57351",
-    "fileSize": 76895,
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.tlctv.com.tr&sz=128",
-    "internalName": "Tlctr",
-    "language": "tr",
-    "name": "Tlctr",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/Tlctr.cs3",
-    "version": 7
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "TrAnimeİzle · Türkiye'nin en popüler anime izleme platformu",
-    "fileHash": "sha256-c5fc9835f2638dd72748b68e674f48275988ef143326961900b5e334dc54a159",
-    "fileSize": 29300,
-    "iconUrl": "https://www.tranimeizle.live/favicon.ico",
-    "internalName": "TrAnimeIzle",
-    "language": "tr",
-    "name": "TrAnimeIzle",
-    "repositoryUrl": "https://github.com/Wiojelt/test",
-    "status": 1,
-    "tvTypes": [
-      "Anime",
-      "AnimeMovie",
-      "OVA"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/TrAnimeIzle.cs3",
-    "version": 2
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "TrDiziİzle · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-f4757602dc84c3f85f85ce534f0bbc53781924395a999f97b523c60c738809bf",
-    "fileSize": 103389,
-    "iconUrl": "https://www.google.com/s2/favicons?domain=trdiziizle.tv&sz=128",
-    "internalName": "TrDiziIzle",
-    "language": "tr",
-    "name": "TrDiziIzle",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/TrDiziIzle.cs3",
-    "version": 7
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "Watch2 Movies · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-f6099123d053e5cc5c1b87b4a70ed97d9fdd00445bbb329ded7c5d8a445729b5",
-    "fileSize": 86223,
-    "iconUrl": "https://www.google.com/s2/favicons?domain=movies2watch.watch&sz=128",
-    "internalName": "Watch2Movies",
-    "language": "tr",
-    "name": "Watch2Movies",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/Watch2Movies.cs3",
-    "version": 7
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "Webte Izle · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-9ba8f9ac8cb6c0434ac244e82363ddf16a3f2efa74d2cdc71353bf6d80425acc",
-    "fileSize": 85935,
-    "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle3.xyz&sz=128",
-    "internalName": "WebteIzle",
-    "language": "tr",
-    "name": "WebteIzle",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/WebteIzle.cs3",
-    "version": 7
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "Yabanci Dizi · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-3a2dc6c60327160940947e240b4e2eba39379ad0a30a58f73f0b66089d8ed088",
-    "fileSize": 108785,
-    "iconUrl": "https://www.google.com/s2/favicons?domain=yabancidizi.news&sz=128",
-    "internalName": "YabanciDizi",
-    "language": "tr",
-    "name": "YabanciDizi",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/YabanciDizi.cs3",
-    "version": 7
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "Yeşilçam TV · Klasik Türk Sineması, Kemal Sunal, Cüneyt Arkın arşivi",
-    "fileHash": "sha256-046279dd294e4db54650db759f0cdf70588b264350cd02bfd67beb6a624df2bd",
-    "fileSize": 80944,
-    "iconUrl": "https://www.google.com/s2/favicons?domain=yesilcamtv.com.tr&sz=128",
-    "internalName": "YesilCamTv",
-    "language": "tr",
-    "name": "YesilCamTv",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/YesilCamTv.cs3",
-    "version": 1
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "Belgesel X · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-d3f664711d78b1d499e104e885b4f9cc107680be6ac29473c19e495769f0df26",
-    "fileSize": 91248,
-    "iconUrl": "https://www.google.com/s2/favicons?domain=belgeselx.com&sz=128",
-    "internalName": "BelgeselX",
-    "language": "tr",
-    "name": "BelgeselX",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/BelgeselX.cs3",
-    "version": 7
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "Alti Yuz Altmis Alti Film Izle · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-41df64bbc7738ce8f4820c4be783103155c9541d94e6aef86d0f0140ff44a10a",
-    "fileSize": 74799,
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/AltiYuzAltmisAltiFilmIzle.png",
-    "internalName": "AltiYuzAltmisAltiFilmIzle",
-    "language": "tr",
-    "name": "AltiYuzAltmisAltiFilmIzle",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/AltiYuzAltmisAltiFilmIzle.cs3",
-    "version": 8
-  },
-  {
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/CineCat.cs3",
-    "status": 3,
-    "version": 2,
-    "name": "CineCat",
-    "internalName": "CineCat",
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "Cinecat · Dizi & Film Portalı (cinecat.eu)",
-    "fileSize": 796207,
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime"
-    ],
-    "iconUrl": "https://cinecat.eu/android-chrome-192x192.png?v=3",
-    "apiVersion": 1,
-    "fileHash": "sha256-dd3457796717da7b9d3e2c542b68b872bbecdbe0f2e00d0de35b16703dcbeec3"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/Mapple.cs3",
-    "status": 3,
-    "version": 3,
-    "name": "Mapple",
-    "internalName": "Mapple",
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "Mapple - Stream Movies, TV Shows & Anime in HD/4K (mapple.fun). Multi-source HLS streams.",
-    "fileSize": 104305,
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/test/builds/logos/mapple.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-ae62e6f49cda20267f4b00b81b49ac4bd5304eb6e5cb826f63cb18426dbba5fa"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/InatBox.cs3",
-    "status": 3,
-    "version": 1,
-    "name": "InatBox",
-    "internalName": "InatBox",
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "İnatBox · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 111363,
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Live"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/darkneslord19/darkneslord/main/uploads/1790635104034_1000154628.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-d07daa3bc46426d6cfaef4dbf99fc7aa027e4bebb5db7cd621054a395bbe2bc8"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/BingeBang.cs3",
-    "status": 3,
-    "version": 1,
-    "name": "BingeBang",
-    "internalName": "BingeBang",
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "BingeBang - Film ve Dizi Portali (bingebang.tv). 4K Ultra HD ve Full HD HLS akislari.",
-    "fileSize": 94435,
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/darkneslord19/darkneslord/main/uploads/1790639565867_1000154647.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-575a53885be3256667afedd12de27a1b894aac352874395108205b57792b8947"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/RecTV.cs3",
-    "status": 3,
-    "version": 2,
-    "name": "RecTV",
-    "internalName": "RecTV",
-    "authors": [
-      "Darknes-lord"
-    ],
-    "description": "RecTV · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 112366,
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Live"
-    ],
-    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLnJlY3R2LnJlY3R2X2FwcF9pY29uXzE2MTQ1MDI3MTNfMDE4/icon.png?fakeurl=1&h=240&type=webp",
-    "apiVersion": 1,
-    "fileHash": "sha256-afbe5d0e566719c3862fea62f40eac8184ea3a3beb0392c1ba010e33b9b2b2a3"
-  },
-  {
-    "name": "Aethelon TV (Hepsi Bir Arada)",
-    "internalName": "Aethelon",
-    "pluginClassName": "com.aethelon.AethelonPlugin",
-    "version": 57,
-    "apiVersion": 1,
-    "status": 1,
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/Aethelon.cs3",
-    "fileSize": 516772,
-    "fileHash": "sha256-49ba5d481ca99baffdf7d0bf2683320935c4df4b00d83a0878da55daf77ae678",
-    "hash": "49ba5d481ca99baffdf7d0bf2683320935c4df4b00d83a0878da55daf77ae678",
-    "authors": [
-      "AethelonDev"
-    ],
-    "description": "Aethelon TV Hepsi Bir Arada Medya Paketi - Sinema, Dizi, Anime & Belgesel Akış Motoru (v57)",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime"
-    ],
-    "language": "tr",
-    "iconUrl": "https://tv.aethelondev.workers.dev/cloudstream/icon.png",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "filesize": 516772
-  }
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "AniArşiv · Güncel ve klasik anime arşivi, Türkçe altyazı",
+        "fileHash": "sha256-2ae3dc6348f98bb3ddc871311715a0a9c9978117e22e71b3ddf5b7f40f4b50ad",
+        "fileSize": 13090,
+        "iconUrl": "https://aniarsiv.com/favicon.ico",
+        "internalName": "AniArsiv",
+        "language": "tr",
+        "name": "AniArsiv",
+        "repositoryUrl": "https://github.com/Wiojelt/test",
+        "status": 1,
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie",
+            "OVA"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/AniArsiv.cs3",
+        "version": 1
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "CineSimkl · TurkSinema ayrı sağlayıcı paketi",
+        "fileHash": "sha256-0f2976e23e1858a10e33b1e9a17f35bc933262ddb4f43a275c189cdb8e181916",
+        "fileSize": 795765,
+        "iconUrl": "https://www.google.com/s2/favicons?domain=simkl.com&sz=128",
+        "internalName": "CineSimkl",
+        "language": "tr",
+        "name": "CineSimkl",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Documentary"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/CineSimkl.cs3",
+        "version": 7
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "CineStream · TurkSinema ayrı sağlayıcı paketi",
+        "fileHash": "sha256-ec1a167ff05ef76e403876791e64c19fb5e91040a845b600af128c71e239552f",
+        "fileSize": 795759,
+        "iconUrl": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/master/CineStream/icon.png",
+        "internalName": "CineStream",
+        "language": "tr",
+        "name": "CineStream",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Documentary"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/CineStream.cs3",
+        "version": 7
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "Cizgi Max · TurkSinema ayrı sağlayıcı paketi",
+        "fileHash": "sha256-bb87fbeb41cfe93d7df8c674940c50cdc950eb0431cc63acc6a449d40cb9593b",
+        "fileSize": 96852,
+        "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=128",
+        "internalName": "CizgiMax",
+        "language": "tr",
+        "name": "CizgiMax",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Documentary"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/CizgiMax.cs3",
+        "version": 7
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "Çizgi, anime, dizi ve film kataloğu; güncel merkez player ve bölüm kaynaklarını çözer.",
+        "fileHash": "sha256-fc053a7b4660ceb915ad5eae27222408665d9e7b1132f943360b2e1ce2688f7d",
+        "fileSize": 35829,
+        "iconUrl": "https://cizgivedizi.com/Logo.png",
+        "internalName": "CizgiVeDizi",
+        "language": "tr",
+        "name": "CizgiVeDizi",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 1,
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/CizgiVeDizi.cs3",
+        "version": 13
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "Clip Box · TurkSinema ayrı sağlayıcı paketi",
+        "fileHash": "sha256-336bd8a1afe191713b8fece1e2f6441fa6977d435b55eea97578a01686bcf34b",
+        "fileSize": 801833,
+        "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/ClipBox.png",
+        "internalName": "ClipBox",
+        "language": "tr",
+        "name": "ClipBox",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Documentary"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/ClipBox.cs3",
+        "version": 7
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "Disney Plus · TurkSinema ayrı sağlayıcı paketi",
+        "fileHash": "sha256-3f1ff90e7b568901d25ea5a4184a7c348dc6d48dacdb30c5c9b9621d8f0b1c94",
+        "fileSize": 119113,
+        "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png",
+        "internalName": "CNCVerseDisneyPlus",
+        "language": "tr",
+        "name": "CNCVerseDisneyPlus",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Documentary"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/CNCVerseDisneyPlus.cs3",
+        "version": 8
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "Netflix Mirror · TurkSinema ayrı sağlayıcı paketi",
+        "fileHash": "sha256-9d216204571eff7574a8d98d1075505efc29b069d9121c348d39e28b34c06a08",
+        "fileSize": 119092,
+        "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png",
+        "internalName": "CNCVerseNetflix",
+        "language": "tr",
+        "name": "CNCVerseNetflix",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Documentary"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/CNCVerseNetflix.cs3",
+        "version": 8
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "Prime Video Mirror · TurkSinema ayrı sağlayıcı paketi",
+        "fileHash": "sha256-25f57e02fc356d1c8a9641b3f29b37a81965512c00f65ffc22423130de32cd6b",
+        "fileSize": 119115,
+        "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png",
+        "internalName": "CNCVersePrimeVideo",
+        "language": "tr",
+        "name": "CNCVersePrimeVideo",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Documentary"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/CNCVersePrimeVideo.cs3",
+        "version": 8
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "D Dizi · TurkSinema ayrı sağlayıcı paketi",
+        "fileHash": "sha256-74ffcd898c38dd653e8dd310578ca651e27dd9aa60e92d28d79d918dbcde095c",
+        "fileSize": 82380,
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.ddizi.im&sz=128",
+        "internalName": "DDizi",
+        "language": "tr",
+        "name": "DDizi",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Documentary"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/DDizi.cs3",
+        "version": 7
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "DiziBal · TurkSinema ayrı sağlayıcı paketi",
+        "fileHash": "sha256-7bb9296ed4e6c0a50edf74d5f4d7fc395afc66817a972048a4f555ca36d9f454",
+        "fileSize": 103368,
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dizibal.com&sz=128",
+        "internalName": "DiziBal",
+        "language": "tr",
+        "name": "DiziBal",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Documentary"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/DiziBal.cs3",
+        "version": 7
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "DiziBol · TurkSinema ayrı sağlayıcı paketi",
+        "fileHash": "sha256-f6acfd481d0deecbe33e34bfac3554ae22725b1c7c610613a777054165883635",
+        "fileSize": 103392,
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dizibol.com&sz=128",
+        "internalName": "DiziBol",
+        "language": "tr",
+        "name": "DiziBol",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Documentary"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/DiziBol.cs3",
+        "version": 7
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "Dizi Box · TurkSinema ayrı sağlayıcı paketi",
+        "fileHash": "sha256-bceae3dbcd3a5d4943a3872af45a48794c06378a4bf0ce5d6ae00815bb4ded6c",
+        "fileSize": 84685,
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.live&sz=128",
+        "internalName": "DiziBox",
+        "language": "tr",
+        "name": "DiziBox",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Documentary"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/DiziBox.cs3",
+        "version": 7
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "DiziFilmİzle · TurkSinema ayrı sağlayıcı paketi",
+        "fileHash": "sha256-26485950a00caec692a46b5e6005dfeedabe2721abcc600398cb34577750e2ba",
+        "fileSize": 103420,
+        "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziFilmIzle.jpg",
+        "internalName": "DiziFilmIzle",
+        "language": "tr",
+        "name": "DiziFilmIzle",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Documentary"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/DiziFilmIzle.cs3",
+        "version": 8
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "Dizilla · TurkSinema ayrı sağlayıcı paketi",
+        "fileHash": "sha256-df8e3e9dfb5e87e2c48f95324825c6ae2e696d7066b5bb98e6d70648ad9b2e10",
+        "fileSize": 97071,
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=128",
+        "internalName": "Dizilla",
+        "language": "tr",
+        "name": "Dizilla",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Documentary"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/Dizilla.cs3",
+        "version": 7
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "Dizi Mom · TurkSinema ayrı sağlayıcı paketi",
+        "fileHash": "sha256-f60676091f13513555918a355dcd12bbb84151276786d50ac057b89e526cb14f",
+        "fileSize": 95994,
+        "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziMom.png",
+        "internalName": "DiziMom",
+        "language": "tr",
+        "name": "DiziMom",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Documentary"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/DiziMom.cs3",
+        "version": 8
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "Dizi Pal · TurkSinema ayrı sağlayıcı paketi",
+        "fileHash": "sha256-e05bdd7f25491a7f95aba099d983527b4e178feb866ddc285eb83421d433c14d",
+        "fileSize": 91945,
+        "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziPal.png",
+        "internalName": "DiziPal",
+        "language": "tr",
+        "name": "DiziPal",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Documentary"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/DiziPal.cs3",
+        "version": 9
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "Dizi Pal Original · TurkSinema ayrı sağlayıcı paketi",
+        "fileHash": "sha256-c5233540a90a95a764d55e2d00cb382ecdb5ff4e0f9f30bd875e290df2e712c4",
+        "fileSize": 91370,
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal2123.com&sz=128",
+        "internalName": "DiziPalOriginal",
+        "language": "tr",
+        "name": "DiziPalOriginal",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Documentary"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/DiziPalOriginal.cs3",
+        "version": 8
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "DiziRella · TurkSinema ayrı sağlayıcı paketi",
+        "fileHash": "sha256-7a39d0f04c6fa10366ede99624bd42dafd476ebc503643a86dd8f0f171e98b3d",
+        "fileSize": 103428,
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dizirella.net&sz=128",
+        "internalName": "DiziRella",
+        "language": "tr",
+        "name": "DiziRella",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Documentary"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/DiziRella.cs3",
+        "version": 7
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "Dizi You · TurkSinema ayrı sağlayıcı paketi",
+        "fileHash": "sha256-ae5620dcedb45d9c01d395c045426b3526a94201890cda8edbda6be752927d7e",
+        "fileSize": 79435,
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.diziyou.one&sz=128",
+        "internalName": "DiziYou",
+        "language": "tr",
+        "name": "DiziYou",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Documentary"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/DiziYou.cs3",
+        "version": 7
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "DMAX · Belgesel, Macera, Canlı TV & Popüler Programlar (dmax.com.tr)",
+        "fileHash": "sha256-fdced277b31dfbe2b41c15a3e1f68ef156e9308ebdfb652733ae4ff6df18554f",
+        "fileSize": 82967,
+        "iconUrl": "https://img-dmax.mncdn.com/dmaxcomtr_logo.png",
+        "internalName": "Dmax",
+        "language": "tr",
+        "name": "Dmax",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Documentary",
+            "TvSeries",
+            "Live"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/Dmax.cs3",
+        "version": 1
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "DramaDizilerim kısa dizi, Asya dizileri, GoodShort ve ReelShort Türkçe dublaj/altyazılı akışları.",
+        "fileHash": "sha256-fe481c96e7a9b29974f02668547d449da5939fe404d32d76b4afeb6398d47838",
+        "fileSize": 21415,
+        "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/logo.png",
+        "internalName": "DramaDizilerim",
+        "language": "tr",
+        "name": "DramaDizilerim",
+        "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
+        "status": 3,
+        "tvTypes": [
+            "TvSeries",
+            "AsianDrama"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/DramaDizilerim.cs3",
+        "version": 3
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "FilmIzzle · TurkSinema ayrı sağlayıcı paketi",
+        "fileHash": "sha256-6dea5532f6af3cec9f554acd2b21d2f6dd2caa7fefb382e34056ab0ac96a584f",
+        "fileSize": 103431,
+        "iconUrl": "https://www.google.com/s2/favicons?domain=filmizzle.com&sz=128",
+        "internalName": "FilmIzzle",
+        "language": "tr",
+        "name": "FilmIzzle",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Documentary"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/FilmIzzle.cs3",
+        "version": 7
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "Film Makinesi · TurkSinema ayrı sağlayıcı paketi",
+        "fileHash": "sha256-302161968466a5cc374ab502794ba035c01ec126616660e90634d569f218d4ef",
+        "fileSize": 82757,
+        "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.to&sz=128",
+        "internalName": "FilmMakinesi",
+        "language": "tr",
+        "name": "FilmMakinesi",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Documentary"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/FilmMakinesi.cs3",
+        "version": 8
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "Film Modu · TurkSinema ayrı sağlayıcı paketi",
+        "fileHash": "sha256-17957840872681e56195cf4743889a6e9c21f60a80958c4ed6eee8fa1015e595",
+        "fileSize": 80025,
+        "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/FilmModu.png",
+        "internalName": "FilmModu",
+        "language": "tr",
+        "name": "FilmModu",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Documentary"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/FilmModu.cs3",
+        "version": 8
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "Flix Network · TurkSinema ayrı sağlayıcı paketi",
+        "fileHash": "sha256-742a41f0d7203a486ef8c073113c101b7a428519f2ca1fe6cdfa469e076f7d4c",
+        "fileSize": 82004,
+        "iconUrl": "https://www.google.com/s2/favicons?domain=flixnetwork.is&sz=128",
+        "internalName": "FlixNetwork",
+        "language": "tr",
+        "name": "FlixNetwork",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Documentary"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/FlixNetwork.cs3",
+        "version": 7
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "Full H D Film · TurkSinema ayrı sağlayıcı paketi",
+        "fileHash": "sha256-04f4afc22c31d1a84cd81382cab1ffedb3ee1e9eef94b790c1c6b607db6ef722",
+        "fileSize": 89672,
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilm.us&sz=128",
+        "internalName": "FullHDFilm",
+        "language": "tr",
+        "name": "FullHDFilm",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Documentary"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/FullHDFilm.cs3",
+        "version": 7
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "Full H D Filmizlesene · TurkSinema ayrı sağlayıcı paketi",
+        "fileHash": "sha256-19b8aece6dd59fef030074aeb4103838ab73569bef17fe966a32b2b3a0350c8d",
+        "fileSize": 102916,
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.now&sz=128",
+        "internalName": "FullHDFilmizlesene",
+        "language": "tr",
+        "name": "FullHDFilmizlesene",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Documentary"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/FullHDFilmizlesene.cs3",
+        "version": 7
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "H D Film Cehennemi · TurkSinema ayrı sağlayıcı paketi",
+        "fileHash": "sha256-b4e37db8b593558bae430deb3fdd05e004f7162fc4a6c0fe6795a27cd02d9978",
+        "fileSize": 93367,
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.hdfilmcehennemi.nl&sz=128",
+        "internalName": "HDFilmCehennemi",
+        "language": "tr",
+        "name": "HDFilmCehennemi",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Documentary"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/HDFilmCehennemi.cs3",
+        "version": 7
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "H D Film Delisi · TurkSinema ayrı sağlayıcı paketi",
+        "fileHash": "sha256-7611da9bdaeba32beb5da5270998bcd85161828561d1d9b2fa9dad2dc63ff6b9",
+        "fileSize": 123880,
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmdelisi.one&sz=128",
+        "internalName": "HDFilmDelisi",
+        "language": "tr",
+        "name": "HDFilmDelisi",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Documentary"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/HDFilmDelisi.cs3",
+        "version": 7
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "HDFilmİzle Ink · TurkSinema ayrı sağlayıcı paketi",
+        "fileHash": "sha256-f0d65b544e932dba7c6ed88e4197a32ee17a0a6560b42f304584f083f3411cd3",
+        "fileSize": 101413,
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmizle.ink&sz=128",
+        "internalName": "HDFilmIzleInk",
+        "language": "tr",
+        "name": "HDFilmIzleInk",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Documentary"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/HDFilmIzleInk.cs3",
+        "version": 7
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "HDFilmİzle Vip · TurkSinema ayrı sağlayıcı paketi",
+        "fileHash": "sha256-305e037949dd6321bf87f7b0cc76a5e388b7b98038ec5f1ff1a90470b17c481a",
+        "fileSize": 101425,
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmizle.vip&sz=128",
+        "internalName": "HDFilmIzleVip",
+        "language": "tr",
+        "name": "HDFilmIzleVip",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Documentary"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/HDFilmIzleVip.cs3",
+        "version": 7
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "H D Filmizle Best · TurkSinema ayrı sağlayıcı paketi",
+        "fileHash": "sha256-f51fd047a7e80b619679fdcc3bb241f5c5293e349aea7277ab869129cfd449fb",
+        "fileSize": 84614,
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.hdfilmizle.best&sz=128",
+        "internalName": "HDFilmizleBest",
+        "language": "tr",
+        "name": "HDFilmizleBest",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Documentary"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/HDFilmizleBest.cs3",
+        "version": 1
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "Jet Filmizle · TurkSinema ayrı sağlayıcı paketi",
+        "fileHash": "sha256-9da0d5a1472aadc19c9617485446aef5fb99767ad037bb98bb8e9384d47934df",
+        "fileSize": 93959,
+        "iconUrl": "https://www.google.com/s2/favicons?domain=jetfilmizle.now&sz=128",
+        "internalName": "JetFilmizle",
+        "language": "tr",
+        "name": "JetFilmizle",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Documentary"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/JetFilmizle.cs3",
+        "version": 8
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "Kult Filmler · TurkSinema ayrı sağlayıcı paketi",
+        "fileHash": "sha256-5b1b7e1d0b13c6268847436d151885dbc189c4e76c074c922ab2836fa4213bf2",
+        "fileSize": 88744,
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kultfilmler.net&sz=128",
+        "internalName": "KultFilmler",
+        "language": "tr",
+        "name": "KultFilmler",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Documentary"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/KultFilmler.cs3",
+        "version": 7
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "LiderFilmİzle · TurkSinema ayrı sağlayıcı paketi",
+        "fileHash": "sha256-43de803f76f32c37f86d05ab86e5c4f50ae3b114ae78dc24af03c09f42e17398",
+        "fileSize": 103426,
+        "iconUrl": "https://www.google.com/s2/favicons?domain=liderfilmizle.com&sz=128",
+        "internalName": "LiderFilmIzle",
+        "language": "tr",
+        "name": "LiderFilmIzle",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Documentary"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/LiderFilmIzle.cs3",
+        "version": 7
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "Net Filmizle · TurkSinema ayrı sağlayıcı paketi",
+        "fileHash": "sha256-ea766202afecf0bd24caae3f8d29e59cb24c27056867b8c4058a3e807379d632",
+        "fileSize": 93446,
+        "iconUrl": "https://www.google.com/s2/favicons?domain=netfilmizle.com&sz=128",
+        "internalName": "NetFilmizle",
+        "language": "tr",
+        "name": "NetFilmizle",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Documentary"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/NetFilmizle.cs3",
+        "version": 1
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "NetShort kısa dizi ve dikey mini drama Türkçe dublaj/altyazılı akışları.",
+        "fileHash": "sha256-39b537a988264af8e4579aaa049676c9b5528a21bdf4986368438130a3e36824",
+        "fileSize": 29902,
+        "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/logo.png",
+        "internalName": "NetShort",
+        "language": "tr",
+        "name": "NetShort",
+        "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
+        "status": 3,
+        "tvTypes": [
+            "TvSeries",
+            "AsianDrama"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/NetShort.cs3",
+        "version": 2
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "Power Sinema · 9.000+ Yerli & Yabancı Sinema, Animasyon ve Seri Filmler",
+        "fileHash": "sha256-ba6a555a929d7310e5fdbbb402748f435fa29c5fce3d17a7c47668847b8017c8",
+        "fileSize": 84747,
+        "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png",
+        "internalName": "PowerSinema",
+        "language": "tr",
+        "name": "PowerSinema",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Movie",
+            "AnimeMovie",
+            "Documentary"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/PowerSinema.cs3",
+        "version": 1
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "Rare Filmm · TurkSinema ayrı sağlayıcı paketi",
+        "fileHash": "sha256-6302e579c2bf76abf3f41db396195d4fbd4d1f512e018537978419ed9b1ca684",
+        "fileSize": 78680,
+        "iconUrl": "https://www.google.com/s2/favicons?domain=rarefilmm.com&sz=128",
+        "internalName": "RareFilmm",
+        "language": "tr",
+        "name": "RareFilmm",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Documentary"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/RareFilmm.cs3",
+        "version": 7
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "Set Film Izle · TurkSinema ayrı sağlayıcı paketi",
+        "fileHash": "sha256-102660614d27386905ba362c6ec53984a860a6c5fb6a47ca8befc2867ea1c190",
+        "fileSize": 89325,
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.setfilmizle.ltd&sz=128",
+        "internalName": "SetFilmIzle",
+        "language": "tr",
+        "name": "SetFilmIzle",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Documentary"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/SetFilmIzle.cs3",
+        "version": 7
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "Sezonluk Dizi · TurkSinema ayrı sağlayıcı paketi",
+        "fileHash": "sha256-6460583915f576d128e0730962de872646022192bf736db1bfae5794c9380b61",
+        "fileSize": 83940,
+        "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi.cc&sz=128",
+        "internalName": "SezonlukDizi",
+        "language": "tr",
+        "name": "SezonlukDizi",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Documentary"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/SezonlukDizi.cs3",
+        "version": 7
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "Sinema C X · TurkSinema ayrı sağlayıcı paketi",
+        "fileHash": "sha256-2de869dc0849a92016496aa75f0f5cec9e80a254cfcc8fbfddec2b16549a5b7a",
+        "fileSize": 78863,
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.sinema.gg&sz=128",
+        "internalName": "SinemaCX",
+        "language": "tr",
+        "name": "SinemaCX",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Documentary"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/SinemaCX.cs3",
+        "version": 7
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "SinemaGG · TurkSinema ayrı sağlayıcı paketi",
+        "fileHash": "sha256-5cb2570d650f458e0882c43756363be577f9e6062dfcd60270ed6b674a404c97",
+        "fileSize": 80263,
+        "iconUrl": "https://www.google.com/s2/favicons?domain=sinema.gg&sz=128",
+        "internalName": "SinemaGG",
+        "language": "tr",
+        "name": "SinemaGG",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Documentary"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/SinemaGG.cs3",
+        "version": 1
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "Sinemakolik · TurkSinema ayrı sağlayıcı paketi",
+        "fileHash": "sha256-4ea859f7dfb4550bae897e910af7f3dd0f444ad55c85fac5c486268e53aa91ac",
+        "fileSize": 91832,
+        "iconUrl": "https://www.google.com/s2/favicons?domain=sinemakolik.com&sz=128",
+        "internalName": "Sinemakolik",
+        "language": "tr",
+        "name": "Sinemakolik",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Documentary"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/Sinemakolik.cs3",
+        "version": 1
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "Sinewix · TurkSinema ayrı sağlayıcı paketi",
+        "fileHash": "sha256-61fa4572c1ab54b16dbee40614d8657f611f9fb19a8f983ebb07ad7c623739a8",
+        "fileSize": 88514,
+        "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX=w240-h480",
+        "internalName": "Sinewix",
+        "language": "tr",
+        "name": "Sinewix",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Documentary"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/Sinewix.cs3",
+        "version": 8
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "Tlctr · TurkSinema ayrı sağlayıcı paketi",
+        "fileHash": "sha256-7e82aa08be3ba488190fa38f6f59056eb37c2a9e9e909df969c7631c8db57351",
+        "fileSize": 76895,
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.tlctv.com.tr&sz=128",
+        "internalName": "Tlctr",
+        "language": "tr",
+        "name": "Tlctr",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Documentary"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/Tlctr.cs3",
+        "version": 7
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "TrAnimeİzle · Türkiye'nin en popüler anime izleme platformu",
+        "fileHash": "sha256-c5fc9835f2638dd72748b68e674f48275988ef143326961900b5e334dc54a159",
+        "fileSize": 29300,
+        "iconUrl": "https://www.tranimeizle.live/favicon.ico",
+        "internalName": "TrAnimeIzle",
+        "language": "tr",
+        "name": "TrAnimeIzle",
+        "repositoryUrl": "https://github.com/Wiojelt/test",
+        "status": 1,
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie",
+            "OVA"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/TrAnimeIzle.cs3",
+        "version": 2
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "TrDiziİzle · TurkSinema ayrı sağlayıcı paketi",
+        "fileHash": "sha256-f4757602dc84c3f85f85ce534f0bbc53781924395a999f97b523c60c738809bf",
+        "fileSize": 103389,
+        "iconUrl": "https://www.google.com/s2/favicons?domain=trdiziizle.tv&sz=128",
+        "internalName": "TrDiziIzle",
+        "language": "tr",
+        "name": "TrDiziIzle",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Documentary"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/TrDiziIzle.cs3",
+        "version": 7
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "Watch2 Movies · TurkSinema ayrı sağlayıcı paketi",
+        "fileHash": "sha256-f6099123d053e5cc5c1b87b4a70ed97d9fdd00445bbb329ded7c5d8a445729b5",
+        "fileSize": 86223,
+        "iconUrl": "https://www.google.com/s2/favicons?domain=movies2watch.watch&sz=128",
+        "internalName": "Watch2Movies",
+        "language": "tr",
+        "name": "Watch2Movies",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Documentary"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/Watch2Movies.cs3",
+        "version": 7
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "Webte Izle · TurkSinema ayrı sağlayıcı paketi",
+        "fileHash": "sha256-9ba8f9ac8cb6c0434ac244e82363ddf16a3f2efa74d2cdc71353bf6d80425acc",
+        "fileSize": 85935,
+        "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle3.xyz&sz=128",
+        "internalName": "WebteIzle",
+        "language": "tr",
+        "name": "WebteIzle",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Documentary"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/WebteIzle.cs3",
+        "version": 7
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "Yabanci Dizi · TurkSinema ayrı sağlayıcı paketi",
+        "fileHash": "sha256-3a2dc6c60327160940947e240b4e2eba39379ad0a30a58f73f0b66089d8ed088",
+        "fileSize": 108785,
+        "iconUrl": "https://www.google.com/s2/favicons?domain=yabancidizi.news&sz=128",
+        "internalName": "YabanciDizi",
+        "language": "tr",
+        "name": "YabanciDizi",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Documentary"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/YabanciDizi.cs3",
+        "version": 7
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "Yeşilçam TV · Klasik Türk Sineması, Kemal Sunal, Cüneyt Arkın arşivi",
+        "fileHash": "sha256-046279dd294e4db54650db759f0cdf70588b264350cd02bfd67beb6a624df2bd",
+        "fileSize": 80944,
+        "iconUrl": "https://www.google.com/s2/favicons?domain=yesilcamtv.com.tr&sz=128",
+        "internalName": "YesilCamTv",
+        "language": "tr",
+        "name": "YesilCamTv",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Movie"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/YesilCamTv.cs3",
+        "version": 1
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "Belgesel X · TurkSinema ayrı sağlayıcı paketi",
+        "fileHash": "sha256-d3f664711d78b1d499e104e885b4f9cc107680be6ac29473c19e495769f0df26",
+        "fileSize": 91248,
+        "iconUrl": "https://www.google.com/s2/favicons?domain=belgeselx.com&sz=128",
+        "internalName": "BelgeselX",
+        "language": "tr",
+        "name": "BelgeselX",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Documentary"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/BelgeselX.cs3",
+        "version": 7
+    },
+    {
+        "apiVersion": 1,
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "Alti Yuz Altmis Alti Film Izle · TurkSinema ayrı sağlayıcı paketi",
+        "fileHash": "sha256-41df64bbc7738ce8f4820c4be783103155c9541d94e6aef86d0f0140ff44a10a",
+        "fileSize": 74799,
+        "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/AltiYuzAltmisAltiFilmIzle.png",
+        "internalName": "AltiYuzAltmisAltiFilmIzle",
+        "language": "tr",
+        "name": "AltiYuzAltmisAltiFilmIzle",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "status": 3,
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Documentary"
+        ],
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/AltiYuzAltmisAltiFilmIzle.cs3",
+        "version": 8
+    },
+    {
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/CineCat.cs3",
+        "status": 3,
+        "version": 2,
+        "name": "CineCat",
+        "internalName": "CineCat",
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "Cinecat · Dizi & Film Portalı (cinecat.eu)",
+        "fileSize": 796207,
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "language": "tr",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "iconUrl": "https://cinecat.eu/android-chrome-192x192.png?v=3",
+        "apiVersion": 1,
+        "fileHash": "sha256-dd3457796717da7b9d3e2c542b68b872bbecdbe0f2e00d0de35b16703dcbeec3"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/Mapple.cs3",
+        "status": 3,
+        "version": 3,
+        "name": "Mapple",
+        "internalName": "Mapple",
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "Mapple - Stream Movies, TV Shows & Anime in HD/4K (mapple.fun). Multi-source HLS streams.",
+        "fileSize": 104305,
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "language": "tr",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/Wiojelt/test/builds/logos/mapple.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-ae62e6f49cda20267f4b00b81b49ac4bd5304eb6e5cb826f63cb18426dbba5fa"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/InatBox.cs3",
+        "status": 3,
+        "version": 1,
+        "name": "InatBox",
+        "internalName": "InatBox",
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "İnatBox · TurkSinema ayrı sağlayıcı paketi",
+        "fileSize": 111363,
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "language": "tr",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Live"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/darkneslord19/darkneslord/main/uploads/1790635104034_1000154628.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-d07daa3bc46426d6cfaef4dbf99fc7aa027e4bebb5db7cd621054a395bbe2bc8"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/BingeBang.cs3",
+        "status": 3,
+        "version": 1,
+        "name": "BingeBang",
+        "internalName": "BingeBang",
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "BingeBang - Film ve Dizi Portali (bingebang.tv). 4K Ultra HD ve Full HD HLS akislari.",
+        "fileSize": 94435,
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "language": "tr",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/darkneslord19/darkneslord/main/uploads/1790639565867_1000154647.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-575a53885be3256667afedd12de27a1b894aac352874395108205b57792b8947"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/RecTV.cs3",
+        "status": 3,
+        "version": 2,
+        "name": "RecTV",
+        "internalName": "RecTV",
+        "authors": [
+            "Darknes-lord"
+        ],
+        "description": "RecTV · TurkSinema ayrı sağlayıcı paketi",
+        "fileSize": 112366,
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "language": "tr",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Live"
+        ],
+        "iconUrl": "https://image.winudf.com/v2/image1/Y29tLnJlY3R2LnJlY3R2X2FwcF9pY29uXzE2MTQ1MDI3MTNfMDE4/icon.png?fakeurl=1&h=240&type=webp",
+        "apiVersion": 1,
+        "fileHash": "sha256-afbe5d0e566719c3862fea62f40eac8184ea3a3beb0392c1ba010e33b9b2b2a3"
+    },
+    {
+        "name": "Aethelon TV (Hepsi Bir Arada)",
+        "internalName": "Aethelon",
+        "pluginClassName": "com.aethelon.AethelonPlugin",
+        "version": 57,
+        "apiVersion": 1,
+        "status": 1,
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/Aethelon.cs3",
+        "fileSize": 516772,
+        "fileHash": "sha256-49ba5d481ca99baffdf7d0bf2683320935c4df4b00d83a0878da55daf77ae678",
+        "hash": "49ba5d481ca99baffdf7d0bf2683320935c4df4b00d83a0878da55daf77ae678",
+        "authors": [
+            "AethelonDev"
+        ],
+        "description": "Aethelon TV Hepsi Bir Arada Medya Paketi - Sinema, Dizi, Anime & Belgesel Akış Motoru (v57)",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "language": "tr",
+        "iconUrl": "https://tv.aethelondev.workers.dev/cloudstream/icon.png",
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "filesize": 516772
+    },
+    {
+        "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/Vavoo_v5.cs3",
+        "status": 1,
+        "version": 5,
+        "name": "Vavoo",
+        "internalName": "Vavoo",
+        "authors": [
+            "Dr.Octagon"
+        ],
+        "description": "Vavoo canlı TV eklentisi. Türkiye kanalları kategori kategori listelenir.",
+        "fileSize": 38623,
+        "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+        "tvTypes": [
+            "Live"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/master/Vavoo/Vavoo.jpg",
+        "apiVersion": 1
+    }
 ]
