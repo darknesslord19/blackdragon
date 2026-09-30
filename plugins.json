@@ -1451,7 +1451,7 @@
       "Darkneslord"
     ],
     "description": "Sezonluk Dizi · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 113296,
+    "fileSize": 46107,
     "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
     "language": "tr",
     "tvTypes": [
@@ -1462,6 +1462,6 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi.cc&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-b10b3e61cbdff5be3ee08aaec158c1994c01c67479d03e062b90683f321d7437"
+    "fileHash": "sha256-534811f7c716080dfaed094b4f7ce596853f244371dcb2ddc07368f728a0fcd1"
   }
 ]
