@@ -916,29 +916,6 @@
     "authors": [
       "Darknes-lord"
     ],
-    "description": "Sezonluk Dizi · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-6460583915f576d128e0730962de872646022192bf736db1bfae5794c9380b61",
-    "fileSize": 83940,
-    "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi.cc&sz=128",
-    "internalName": "SezonlukDizi",
-    "language": "tr",
-    "name": "SezonlukDizi",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/SezonlukDizi.cs3",
-    "version": 7
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
     "description": "Sinema C X · TurkSinema ayrı sağlayıcı paketi",
     "fileHash": "sha256-2de869dc0849a92016496aa75f0f5cec9e80a254cfcc8fbfddec2b16549a5b7a",
     "fileSize": 78863,
@@ -1463,5 +1440,28 @@
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziPal.png",
     "apiVersion": 1,
     "fileHash": "sha256-632fd0b29a3f9bc1b87a55165bcb2e1f2d8a5993371fa19e566d5cc9b694e8ff"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/SezonlukDizi.cs3",
+    "status": 3,
+    "version": 7,
+    "name": "SezonlukDizi",
+    "internalName": "SezonlukDizi",
+    "authors": [
+      "Darknes-lord"
+    ],
+    "description": "Sezonluk Dizi · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 27545,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi.cc&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-3fea9b8e9a8ab89802808ad3ae53d82836b72175d499aa01c08ba109c5f5d4c0"
   }
 ]
