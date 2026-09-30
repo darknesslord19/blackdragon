@@ -1473,7 +1473,7 @@
       "Darkneslord"
     ],
     "description": "Türkçe altyazılı yabancı dizi izle, Tüm yabancı, kore, netflix dizilerin yeni ve eski sezonlarını orijinal dilinde dizigom1 alt yazılı film izleyebilir, sadece türkçe altyazılı en iyi yabancı diziler ve filmler hakkında yorum yapabilirsiniz.",
-    "fileSize": 32834,
+    "fileSize": 81997,
     "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
     "language": "tr",
     "tvTypes": [
@@ -1482,6 +1482,6 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizigom.love&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-3392ebe5ea1e44623339ea173fc1f9ec73190f94eab87a6f843f1ce98e044947"
+    "fileHash": "sha256-4d2fe998ca8ac11d9c76e799bb155a675a50ce6fcf898497ec54c79780646e09"
   }
 ]
