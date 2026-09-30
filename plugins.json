@@ -370,29 +370,6 @@
     "authors": [
       "Darknes-lord"
     ],
-    "description": "Dizi Pal · TurkSinema ayrı sağlayıcı paketi",
-    "fileHash": "sha256-e05bdd7f25491a7f95aba099d983527b4e178feb866ddc285eb83421d433c14d",
-    "fileSize": 91945,
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziPal.png",
-    "internalName": "DiziPal",
-    "language": "tr",
-    "name": "DiziPal",
-    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
-    "status": 3,
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/DiziPal.cs3",
-    "version": 9
-  },
-  {
-    "apiVersion": 1,
-    "authors": [
-      "Darknes-lord"
-    ],
     "description": "Dizi Pal Original · TurkSinema ayrı sağlayıcı paketi",
     "fileHash": "sha256-c5233540a90a95a764d55e2d00cb382ecdb5ff4e0f9f30bd875e290df2e712c4",
     "fileSize": 91370,
@@ -1463,5 +1440,28 @@
     "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/XPrime.cs3",
     "name": "XPrime",
     "fileHash": "sha256-65dd7071b4bf3e657f641b4aebc790b8493279daa1fbdb3a301ff62c966e3b93"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/DiziPal.cs3",
+    "status": 3,
+    "version": 9,
+    "name": "DiziPal",
+    "internalName": "DiziPal",
+    "authors": [
+      "Darknes-lord"
+    ],
+    "description": "Dizi Pal · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 35007,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziPal.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-632fd0b29a3f9bc1b87a55165bcb2e1f2d8a5993371fa19e566d5cc9b694e8ff"
   }
 ]
