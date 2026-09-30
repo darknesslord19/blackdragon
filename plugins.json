@@ -1457,8 +1457,7 @@
     "tvTypes": [
       "Movie",
       "TvSeries",
-      "Anime",
-      "Documentary"
+      "Anime"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi.cc&sz=128",
     "apiVersion": 1,
