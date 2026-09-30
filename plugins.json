@@ -1462,5 +1462,25 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi.cc&sz=128",
     "apiVersion": 1,
     "fileHash": "sha256-534811f7c716080dfaed094b4f7ce596853f244371dcb2ddc07368f728a0fcd1"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/DiziGom.cs3",
+    "status": 1,
+    "version": 16,
+    "name": "DiziGom",
+    "internalName": "DiziGom",
+    "authors": [
+      "Darkneslord"
+    ],
+    "description": "Türkçe altyazılı yabancı dizi izle, Tüm yabancı, kore, netflix dizilerin yeni ve eski sezonlarını orijinal dilinde dizigom1 alt yazılı film izleyebilir, sadece türkçe altyazılı en iyi yabancı diziler ve filmler hakkında yorum yapabilirsiniz.",
+    "fileSize": 32834,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizigom.love&sz=%size%",
+    "apiVersion": 1,
+    "fileHash": "sha256-3392ebe5ea1e44623339ea173fc1f9ec73190f94eab87a6f843f1ce98e044947"
   }
 ]
