@@ -1498,6 +1498,8 @@
     "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
     "language": "tr",
     "tvTypes": [
+      "Movie",
+      "TvSeries",
       "AsianDrama"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizikorea.vip&sz=%size%",
