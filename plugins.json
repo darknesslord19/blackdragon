@@ -1494,7 +1494,7 @@
       "Darkneslord"
     ],
     "description": "En Güncel Kore Dizileri izleme Sitesi",
-    "fileSize": 23562,
+    "fileSize": 42643,
     "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
     "language": "tr",
     "tvTypes": [
@@ -1504,6 +1504,6 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizikorea.vip&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-1958c66dd0c32ab436adc333504c1183322653afa048425509a7dfc4898ba0da"
+    "fileHash": "sha256-857ac13e96361c0b376280bb2679807aeb5541ca34ca9d26f907889cbc08f8d8"
   }
 ]
