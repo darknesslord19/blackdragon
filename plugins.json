@@ -1483,5 +1483,25 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizigom.love&sz=%size%",
     "apiVersion": 1,
     "fileHash": "sha256-4d2fe998ca8ac11d9c76e799bb155a675a50ce6fcf898497ec54c79780646e09"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/darknesslord19/blackdragon/main/DiziKorea.cs3",
+    "status": 1,
+    "version": 41,
+    "name": "DiziKorea",
+    "internalName": "DiziKorea",
+    "authors": [
+      "Darkneslord"
+    ],
+    "description": "En Güncel Kore Dizileri izleme Sitesi",
+    "fileSize": 23562,
+    "repositoryUrl": "https://github.com/darknesslord19/blackdragon",
+    "language": "tr",
+    "tvTypes": [
+      "AsianDrama"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizikorea.vip&sz=%size%",
+    "apiVersion": 1,
+    "fileHash": "sha256-1958c66dd0c32ab436adc333504c1183322653afa048425509a7dfc4898ba0da"
   }
 ]
